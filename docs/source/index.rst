@@ -11,7 +11,6 @@ Contents
 
 .. toctree::
 
-   index
    installation
    items
    armor
