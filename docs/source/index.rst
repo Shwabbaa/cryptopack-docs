@@ -1,22 +1,17 @@
-Welcome to Lumache's documentation!
+CryptoPack
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**CryptoPack** is a custom resource pack built for the #1 open-world survival horror roleplay platform, CryptoCraft.
+It has named custom textures, allowing users to pick and choose which textures they want for a specific item by renaming it.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
+Check out :doc:`installation` section to learn how to install the resourcepack, as well as the required mods to use it.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   items
+   armor
+   blocks
+   sounds
