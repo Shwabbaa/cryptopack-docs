@@ -12,6 +12,7 @@ Contents
 .. toctree::
 
    getting_started
+   development
    items
    armor
    blocks
