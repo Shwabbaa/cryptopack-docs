@@ -6,13 +6,17 @@ This section covers held items (mostly weapons).
 For an item to function in CryptoPack, it must be renamed to contain specific text (which is listed below). 
 You can use the /itemname command to rename items without cost, 
 
-Base Tools
+Universal Tools
+-------------
+These are **special** tools which can be applied to any tool type (swords, pickaxe, axes, shovels, hoes, and the trident)
+
+Melee Weapons
 -------------
 
-Swords
+Bows & Crossbows
 -------------
 
-Axes
+Totems
 -------------
 
 Other Items
