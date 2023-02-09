@@ -12,6 +12,8 @@ Meteor Shovel
 * Items: "All Tools and Weapons"
 * ID: "meteor_shovel"
 
+.. image:: items/meteor_shovel.png
+   :height: 256
 Tool
 -----------
 
