@@ -36,7 +36,9 @@ We will be creating a Meteor Client Sword.
       * meteor
       * METEOR AXE
       * <red>METEOR
-      
+    
+    * The Items field tells you what items can be renamed, in this case all tools and weapons can be renamed to make the meteor tool.
+    
 #. Rename your item using /itemname, or an anvil.
 
 .. note::
