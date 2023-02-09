@@ -3,9 +3,6 @@ Items
 
 This section covers held items (mostly weapons).
 
-For an item to function in CryptoPack, it must be renamed to contain specific text (which is listed below). 
-You can use the /itemname command to rename items without cost, 
-
 Universal Tools
 -------------
 These are **special** tools which can be applied to any tool type (swords, pickaxe, axes, shovels, hoes, and the trident)
@@ -22,9 +19,12 @@ Totems
 Other Items
 -------------
 
-Modelling
+Creation
 -------------
-Modelling items is one of the easiest things to do.
+
+Items can be textured just as normal.
+
+Modelling items is very easy for a simple item.
 
 #. Install and open BlockBench
 #. Select "New Java Block/Item"
