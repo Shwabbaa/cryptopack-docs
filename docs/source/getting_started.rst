@@ -1,4 +1,4 @@
-Getting started
+Getting Started
 ===================================
 
 This will cover how to install the resourcepack, and how to rename rename an item to change it's texture.
