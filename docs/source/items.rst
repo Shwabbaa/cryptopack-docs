@@ -9,7 +9,7 @@ These are **special** tools which can be applied to any tool type (swords, picka
 
 Meteor Shovel
 -----------
-* Pttern: "meteor"
+* Pattern: "meteor"
 * Items: All Tools and Weapons
 * ID: "meteor_shovel"
 
