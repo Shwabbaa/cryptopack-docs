@@ -11,7 +11,7 @@ Contents
 
 .. toctree::
 
-   installation
+   getting_started
    items
    armor
    blocks
