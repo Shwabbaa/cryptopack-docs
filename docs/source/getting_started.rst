@@ -1,5 +1,10 @@
-Installation
+Getting started
 ===================================
+
+This will cover how to install the resourcepack, and how to rename rename an item to change it's texture.
+
+Installation
+----------
 
 #. Install **ANY** of these
 
@@ -13,6 +18,9 @@ Installation
 #. Press install.
 
 That's it!
+
+Your first custom item
+------------
 
 Uninstalling
 ------------
