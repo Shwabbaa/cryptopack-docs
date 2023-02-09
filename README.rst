@@ -1,5 +1,5 @@
-L
+CryptoPack Documentation
 =======================================
 
-L
+Documentation for a resourcepack
 
