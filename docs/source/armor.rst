@@ -9,15 +9,15 @@ Hats do not give any armour points, they are only for cosmetic value
 
 Meteor Hat
 ----------
-Pattern: "meteor"
-Items: Carved Pumpkin
-ID: "meteor_hat"
+* Pattern: "meteor"
+* Items: Carved Pumpkin
+* ID: "meteor_hat"
 
 Baphomet Mask
 ----------
-Pattern: "baphomet"
-Items: Carved Pumpkin
-ID: "baphomet_mask"
+* Pattern: "baphomet"
+* Items: Carved Pumpkin
+* ID: "baphomet_mask"
 
 Armour sets
 ==========
