@@ -26,7 +26,7 @@ We will be creating a Meteor Client Sword.
 #. Find the item you want (in this case, it's the Meteor Client sword in :doc:`items`)
 #. Look at the text pattern to figure out what to name:
 
-   * "Name: "Meteor Tool", Text: "meteor" ID: meteor_sword"
+   * "Name: "Meteor Tool", Text: "meteor", ID: meteor_sword, Items:"All Tools and Weapons""
    
    * We are looking for the Text field, so we will rename our item to something containing Meteor (case insensitive, can contain formatting like colours)
    
