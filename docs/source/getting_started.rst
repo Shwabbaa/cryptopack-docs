@@ -14,7 +14,7 @@ Installation
 
    * `CIT Resewn Fabric Mod <https://www.curseforge.com/minecraft/mc-mods/cit-resewn>`_ 
       
-      * You can install the `:doc:modpack` which contains CIT Resewn + other common mods
+      * You can install the :doc:`modpack` which contains CIT Resewn + other common mods
 
 #. Join the server and type /resourcepack
 #. Press install.
