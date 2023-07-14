@@ -25,6 +25,5 @@ That's it!
 
 .. note ::
    The modpack contains resourcepacks that change the splash screen which are on by default. You can remove them by going to resourcepacks. 
-e.
 
 
