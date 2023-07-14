@@ -8,11 +8,13 @@ Installation
 
 #. Install **ANY** of these
 
-   * `Optifine <https://www.optifine.net/downloads>`_ **NOT WORKING FOR 1.19.3 YET**
+   * `Optifine <https://www.optifine.net/downloads>`_ 
 
-   * `Lunar Client <https://www.lunarclient.com>`_ **NOT WORKING FOR 1.19.3 YET**
+   * `Lunar Client <https://www.lunarclient.com>`_ 
 
-   * `CIT Resewn Fabric Mod <https://www.curseforge.com/minecraft/mc-mods/cit-resewn>`_ **Working, requires Fabric**
+   * `CIT Resewn Fabric Mod <https://www.curseforge.com/minecraft/mc-mods/cit-resewn>`_ 
+      
+      * You can install the `Curseforge Modpack <https://mega.nz/file/OWJThK7K#WdEbnPXnksFHlqySCtqyBEexxyEzEO6nKkZVS66Au3U>` which contains CIT Resewn + other common mods
 
 #. Join the server and type /resourcepack
 #. Press install.
