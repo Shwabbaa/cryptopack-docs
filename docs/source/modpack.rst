@@ -7,6 +7,7 @@ Installation
 ----------
 
 #. Download `CurseForge Launcher <https://www.curseforge.com/download/app>`_ and Select "Download standalone"
+
 .. note ::
    Download Overwolf contains literal adware, so I wouldn't get it.
    If you already have the Overwolf version, it doesn't matter but this tutorial is built for standalone.
