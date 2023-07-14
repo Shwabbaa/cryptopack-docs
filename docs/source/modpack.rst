@@ -6,7 +6,7 @@ This will cover how to install the modpack
 Installation
 ----------
 
-#. Download `CurseForge Launcher <https://www.curseforge.com/download/app>` and Select "Download standalone"
+#. Download `CurseForge Launcher <https://www.curseforge.com/download/app>`_ and Select "Download standalone"
    .. note ::
    If you already have the launcher skip to step 3
    Download Overwolf contains literal adware, so I wouldn't get it.
