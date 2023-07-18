@@ -6,103 +6,98 @@ This section covers held items (mostly weapons).
 Tools And Weapons
 ============
 
-Blade Of Pure Australian Crack:
-
+Blade Of Pure Australian Crack
+------------------
 * Pattern: "of pure australian crack"
 * Items: All Swords
 
-Blades Of Chaos:
-
+Blades Of Chaos
+------------------
 * Pattern: "of chaos"
 * Items: All Swords
 
-Blue Boxing Glove:
-
+Blue Boxing Glove
+------------------
 * Pattern: "of chaos"
 * Items: All Tools
 
-Chainsaw:
-
+Chainsaw
+------------------
 * Pattern: "chainsaw"
 * Items: All Tools
 
-Doom Slayer:
-
+Doom Slayer
+------------------
 * Pattern: "doom slayer"
 * Items: All Swords
 
-Knife:
-
+Knife
+------------------
 * Pattern: "knife"
 * Items: All Swords
 
-Leviathan Axe:
-
+Leviathan Axe
+------------------
 * Pattern: "leviathan axe"
 * Items: All Axes
 
-Meta Quest 2 Controller Left:
-
+Meta Quest 2 Controller Left
+------------------
 * Pattern: "left quest"
 * Items: All Tools
 
-Meta Quest 2 Controller Right:
-
+Meta Quest 2 Controller Right
+------------------
 * Pattern: "right quest"
 * Items: All Tools
 
-Meteor Shovel:
-
+Meteor Shovel
+------------------
 * Pattern: "meteor"
 * Items: All Tools
 
-Mjolnir:
-
+Mjolnir
+------------------
 * Pattern: "mjolnir"
 * Items: All Tools
 
-Mjolnir:
-
-* Pattern: "mjolnir"
-* Items: All Tools
-
-Red Boxing Glove:
-
+Red Boxing Glove
+------------------
 * Pattern: "red boxing glove"
 * Items: All Tools
 
-Spartan Sword:
-
+Spartan Sword
+------------------
 * Pattern: "sparta"
 * Items: All Swords
 
-Stick Pickaxe:
-
+Stick Pickaxe
+------------------
 * Pattern: "stick pickaxe"
 * Items: All Tools
 
-Sword of Blood: (Blade of Blood)
-
+Sword of Blood (Blade of Blood)
+------------------
 * Pattern: "of blood"
 * Items: All Swords
 
-Sword of Ghouls: (Blade of Ghouls)
-
+Sword of Ghouls (Blade of Ghouls)
+------------------
 * Pattern: "of ghouls"
 * Items: All Swords
 
-Sword of Sin: (Blade of Sin)
-
+Sword of Sin:= (Blade of Sin)
+------------------
 * Pattern: "of sin"
 * Items: All Swords
 
-Sword of Unliving: (Blade of Unliving)
-
+Sword of Unliving (Blade of Unliving)
+------------------
 * Pattern: "of sin"
 * Items: All Swords
 
-Troll Sword:
-
+Troll Sword
+------------------
 * Pattern: "troll"
 * Items: All Swords
 
