@@ -8,5 +8,15 @@ However, blocks can be reimplemented as items sticking in an invisible item fram
 Furniture
 ----------
 
+Nothing yet.
+
 Other Blocks
 ----------
+
+Garm:
+
+* Pattern: "garm"
+* Items: Diamond
+* ID: "garm"
+* Description: A dog
+
