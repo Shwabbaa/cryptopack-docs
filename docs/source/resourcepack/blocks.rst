@@ -14,7 +14,7 @@ Other Blocks
 ==========
 
 Garm
-~~~~~~~~~
+~~~~~~~~~~
 * Pattern: "garm"
 * Items: Diamond
 * Description: A dog
