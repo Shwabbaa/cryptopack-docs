@@ -15,7 +15,7 @@ Quick Start
 
 * :doc:`blocks`
 
-Contents
+Full Contents
 --------
 
 .. toctree::
