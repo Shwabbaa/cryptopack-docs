@@ -1,14 +1,14 @@
 CryptoCraft
 ===================================
 
-Quick Start
+Pages
 --------
 
 * :doc:`features/index` 
 
 * :doc:`resourcepack/index` 
 
-* :doc:`modpack`
+* :doc:`Install the Modpack <modpack>`
 
 .. toctree::
    :hidden:
