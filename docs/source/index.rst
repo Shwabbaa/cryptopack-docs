@@ -4,13 +4,15 @@ CryptoCraft
 Quick Start
 --------
 
-* :doc:`Resourcepack <../resourcepack/index>` 
+* :doc:`features` 
 
+* :doc:`resourcepack/index` 
 
-Full Contents
---------
+* :doc:`modpack`
 
 .. toctree::
+   :hidden:
 
+   features
    ../resourcepack/index
    modpack
