@@ -10,8 +10,6 @@ Check out :doc:`getting_started` to learn how to install the resourcepack, as we
 :doc:`armor`
 :doc:`blocks`
 
-.. toctree::
-
 Contents
 --------
 
