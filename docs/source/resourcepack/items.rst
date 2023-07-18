@@ -1,7 +1,7 @@
 Items
 ***************************************
 
-This section covers held items (mostly weapons).
+This section covers items (mostly weapons).
 
 Tools And Weapons
 ============
@@ -104,36 +104,36 @@ Troll Sword
 Shields
 ============
 
-Guardian Shield:
-
+Guardian Shield
+------------------
 * Pattern: "guardian"
 * Items: Shield
 
-Meteor Shield:
-
+Meteor Shield
+------------------
 * Pattern: "meteor"
 * Items: Shield
 
-Basic Stone Shield:
-
+Basic Stone Shield
+------------------
 * Pattern: "stone"
 * Items: Shield
 
-Template Shield:
-
+Template Shield
+------------------
 * Pattern: "template"
 * Items: Shield
 
 Food
 ============
 
-Nacho Sombero:
-
+Nacho Sombero
+------------------
 * Pattern: "nacho"
 * Items: All foods, carved pumpkin
 
-KFC:
-
+KFC
+------------------
 * Pattern: "kfc"
 * Items: All foods (not cake)
 
