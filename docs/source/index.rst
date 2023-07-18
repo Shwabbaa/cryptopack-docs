@@ -4,7 +4,7 @@ CryptoCraft
 Quick Start
 --------
 
-* :doc:`Resourcepack <../resourcepack/>` 
+* :doc:`Resourcepack <../resourcepack/index>` 
 
 
 Full Contents
@@ -12,5 +12,5 @@ Full Contents
 
 .. toctree::
 
-   ../resourcepack/
+   ../resourcepack/index
    modpack
