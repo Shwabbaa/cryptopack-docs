@@ -6,11 +6,14 @@ It has named custom textures, allowing users to pick and choose which textures t
 
 Check out :doc:`getting_started` to learn how to install the resourcepack, as well as the required mods to use it.
 
-:doc:`items`
+Quick Start
+--------
 
-:doc:`armor`
+* :doc:`items`
 
-:doc:`blocks`
+* :doc:`armor`
+
+* :doc:`blocks`
 
 Contents
 --------
