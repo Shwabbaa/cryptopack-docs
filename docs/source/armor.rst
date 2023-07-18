@@ -11,13 +11,31 @@ Baphomet Mask:
 
 * Pattern: "baphomet"
 * Items: Carved Pumpkin
-* ID: "baphomet_mask"
+
+Cool Red Hat:
+
+* Pattern: "cool red"
+* Items: Carved Pumpkin
+
+Freddy Fazbear Head:
+
+* Pattern: "freddy"
+* Items:  Carved Pumpkin
+
+Meta Quest 2:
+
+* Pattern: "quest"
+* Items:  Carved Pumpkin
 
 Meteor Hat:
 
 * Pattern: "meteor"
+* Items:  Carved Pumpkin
+
+Nacho Sombero:
+
+* Pattern: "nacho"
 * Items: Carved Pumpkin
-* ID: "meteor_hat"
 
 Armor sets
 ==========
@@ -28,39 +46,27 @@ Ares Armor:
 
 * Pattern: "ares"
 * Items: All armors
-* ID: "ares
-
-
 Black Sex Armor:
 
 * Pattern: "black sex"
 * Items: All armors
-* ID: "black_sex"
-
 
 Invisible Armor:
 
 * Pattern: "black sex"
 * Items: All armors
-* ID: "black_sex"
-
 
 Norse Armor:
 
 * Pattern: "norse"
 * Items: All armors
-* ID: "norse"
-
 
 Template Armor:
 
 * Pattern: "template"
 * Items: All armors
-* ID: "template"
-
 
 Transparent Armor: (Not to be confused with invisible armor, transparent armor still shows off you have armor)
 
 * Pattern: "transparent"
 * Items: All armors
-* ID: "transparent_armor"
