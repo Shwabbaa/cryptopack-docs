@@ -35,7 +35,7 @@ Meteor Hat:
 Nacho Sombero:
 
 * Pattern: "nacho"
-* Items: Carved Pumpkin
+* Items: Carved Pumpkin and all food
 
 Armor sets
 ==========
