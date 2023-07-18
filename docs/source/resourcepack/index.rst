@@ -1,4 +1,4 @@
-CryptoPack
+Resource Pack
 ===================================
 
 **CryptoPack** is a custom resource pack built for the #1 open-world survival horror roleplay platform, CryptoCraft.
