@@ -14,3 +14,12 @@ Quick Start
 * :doc:`armor`
 
 * :doc:`blocks`
+
+.. toctree::
+   getting_started
+   modpack
+   development
+   items
+   armor
+   blocks
+   sounds
