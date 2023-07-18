@@ -46,8 +46,9 @@ Ares Armor
 ~~~~~~~~~~~~~~~~
 * Pattern: "ares"
 * Items: All armors
-Black Sex Armor:
 
+Black Sex Armor
+~~~~~~~~~~~~~~~~
 * Pattern: "black sex"
 * Items: All armors
 
