@@ -13,8 +13,8 @@ Nothing yet.
 Other Blocks
 ----------
 
-Garm:
-
+Garm
+~~~~~~~~~~~~~~~~~~~~~~
 * Pattern: "garm"
 * Items: Diamond
 * ID: "garm"
