@@ -13,6 +13,6 @@ Quick Start
 .. toctree::
    :hidden:
 
-   features
-   ../resourcepack/index
+   features/index
+   resourcepack/index
    modpack
