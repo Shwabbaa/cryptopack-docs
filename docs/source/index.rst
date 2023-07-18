@@ -8,7 +8,7 @@ Pages
 
 * :doc:`resourcepack/index` 
 
-* :doc:`Install the Modpack <modpack>`
+* :doc:`Install the Modpack <modpack>`_
 
 .. toctree::
    :hidden:
