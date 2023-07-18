@@ -4,7 +4,7 @@ CryptoCraft
 Quick Start
 --------
 
-* :doc:`features` 
+* :doc:`features/index` 
 
 * :doc:`resourcepack/index` 
 
