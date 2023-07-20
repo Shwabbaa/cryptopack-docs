@@ -137,6 +137,11 @@ KFC
 * Pattern: "kfc"
 * Items: All foods (not cake)
 
+Vegemite
+------------------
+* Pattern: "vegemite"
+* Items: All foods (not cake)
+
 Bows & Crossbows
 ============
 Bows and crossbows are actually animated, consisting of 4 animation frames.
@@ -151,5 +156,14 @@ There are a few totem textures, but you'll have to find them for yourself...
 Other Items
 ============
 
-No items yet.
+Black Kableeb
+------------------
+* Pattern: "black kableeb"
+* Items: All foods (not cake), carved pumpkin, all tools, stick
+
+Kableeb
+------------------
+* Pattern: "kableeb"
+* Items: All foods (not cake), carved pumpkin, all tools, stick
+
 
