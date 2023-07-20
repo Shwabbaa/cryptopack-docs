@@ -52,6 +52,11 @@ Black Sex Armor
 * Pattern: "black sex"
 * Items: All armors
 
+Brownbear Armor
+~~~~~~~~~~~~~~~~
+* Pattern: "brownbear"
+* Items: All armors
+
 Invisible Armor
 ~~~~~~~~~~~~~~~~
 * Pattern: "black sex"
