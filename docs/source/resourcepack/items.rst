@@ -36,6 +36,11 @@ Knife
 * Pattern: "knife"
 * Items: All Swords
 
+Leonidas Spear
+------------------
+* Pattern: "leonidas spear"
+* Items: All Swords
+
 Leviathan Axe
 ------------------
 * Pattern: "leviathan axe"
