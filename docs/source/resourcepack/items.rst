@@ -14,7 +14,7 @@ Blade Of Pure Australian Crack
 Blades Of Chaos
 ------------------
 * Pattern: "of chaos"
-* Items: All Swords
+* Items: All Swords and shields
 
 Blue Boxing Glove
 ------------------
@@ -109,6 +109,16 @@ Troll Sword
 Shields
 ============
 
+Basic Stone Shield
+------------------
+* Pattern: "stone"
+* Items: Shield
+
+Blades Of Chaos (sword blocking)
+------------------
+* Pattern: "of chaos"
+* Items: All Swords and shields
+
 Guardian Shield
 ------------------
 * Pattern: "guardian"
@@ -119,10 +129,6 @@ Meteor Shield
 * Pattern: "meteor"
 * Items: Shield
 
-Basic Stone Shield
-------------------
-* Pattern: "stone"
-* Items: Shield
 
 Template Shield
 ------------------
