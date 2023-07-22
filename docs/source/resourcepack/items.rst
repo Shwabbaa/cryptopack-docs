@@ -91,7 +91,7 @@ Sword of Ghouls (Blade of Ghouls)
 * Pattern: "of ghouls"
 * Items: All Swords
 
-Sword of Sin: (Blade of Sin)
+Sword of Sin (Blade of Sin)
 ------------------
 * Pattern: "of sin"
 * Items: All Swords
