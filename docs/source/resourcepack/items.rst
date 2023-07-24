@@ -31,6 +31,11 @@ Doom Slayer
 * Pattern: "doom slayer"
 * Items: All Swords
 
+Draupnir
+------------------
+* Pattern: "draupnir"
+* Items: All Swords
+
 Knife
 ------------------
 * Pattern: "knife"
