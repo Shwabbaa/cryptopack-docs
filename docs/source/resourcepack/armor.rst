@@ -22,6 +22,11 @@ Cool Red Hat
 * Pattern: "cool red"
 * Items: Carved Pumpkin
 
+Electro's Mask
+~~~~~~~~~~~~~~~~
+* Pattern: "electro"
+* Items:  Carved Pumpkin
+
 Freddy Fazbear Head
 ~~~~~~~~~~~~~~~~
 * Pattern: "freddy"
