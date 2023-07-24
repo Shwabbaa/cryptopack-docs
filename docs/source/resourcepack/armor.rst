@@ -12,6 +12,11 @@ Baphomet Mask
 * Pattern: "baphomet"
 * Items: Carved Pumpkin
 
+Cool Glasses
+~~~~~~~~~~~~~~~~
+* Pattern: "cool glasses"
+* Items: Carved Pumpkin
+
 Cool Red Hat
 ~~~~~~~~~~~~~~~~
 * Pattern: "cool red"
@@ -36,6 +41,11 @@ Nacho Sombero
 ~~~~~~~~~~~~~~~~
 * Pattern: "nacho"
 * Items: Carved Pumpkin and all food
+
+Raised Cool Glasses
+~~~~~~~~~~~~~~~~
+* Pattern: "raised cool glasses"
+* Items: Carved Pumpkin
 
 Armor sets
 ==========
