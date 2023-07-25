@@ -177,9 +177,12 @@ Black Kableeb
 * Pattern: "black kableeb"
 * Items: All foods (not cake), carved pumpkin, all tools, stick
 
+Gjallar Horn
+------------------
+* Pattern: "gjallar"
+* Items: Goat horn
+
 Kableeb
 ------------------
 * Pattern: "kableeb"
 * Items: All foods (not cake), carved pumpkin, all tools, stick
-
-
