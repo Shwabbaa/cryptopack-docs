@@ -23,5 +23,7 @@ Overview
 * Anvil too expensive limit removed
 * You can also use leather instead of rabbit hide to craft a bundle
 
+Contents
+--------
 .. toctree::
   items
