@@ -9,8 +9,10 @@ Books are consumable items that each do something unique, they all have 3 uses.
 
 Books will also require and consume :doc:`spirit` to use.
 
-* Lost Tips on Crypto Valley: 
-
+Lost Tips on Crypto Valley
+~~~~~~~~~~~~~~~~
+Instantly grows crops around the reader.
+Cost: 25 Spirit
   
 
 Weapons
@@ -22,4 +24,6 @@ Miscellaneous
 random items idk
 
 .. _cool-red-cap:
-* Cool Red Cap: Gain 0.1 :doc:`spirit` per second while wearing
+Cool Red Cap
+~~~~~~~~~~~~~~~~
+Gain 0.1 :doc:`spirit` per second while wearing
