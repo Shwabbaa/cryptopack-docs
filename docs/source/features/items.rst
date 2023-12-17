@@ -5,7 +5,13 @@ List of all items in CryptoCraft
 
 Books
 --------
-Books are consumable items that each do something unique, they all have 3 uses
+Books are consumable items that each do something unique, they all have 3 uses.
+
+Books will also require and consume :doc:`spirit` to use.
+
+* Lost Tips on Crypto Valley: 
+
+  
 
 Weapons
 --------
