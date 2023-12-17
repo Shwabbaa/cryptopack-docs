@@ -6,8 +6,8 @@ project = 'CryptoPack'
 copyright = '2023, Shwabbaa'
 author = 'Shwabbaa'
 
-release = '1.0'
-version = '1.0.0'
+release = '2.0'
+version = '2.0.0'
 
 # -- General configuration
 
