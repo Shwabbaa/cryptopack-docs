@@ -12,6 +12,7 @@ Books will also require and consume :doc:`spirit` to use.
 Lost Tips on Crypto Valley
 ~~~~~~~~~~~~~~~~
 Instantly grows crops around the reader.
+
 Cost: 25 Spirit
   
 
