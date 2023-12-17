@@ -19,7 +19,7 @@ Overview
  * You drop 50% of your XP when you die instead of 7 levels
 * Some new items are added, you can **use the vanilla recipe book and search 'CryptoCraft'**:
  * 4 new craftable weapon types were added with different stats and abilities 
- * You can craft consumable :ref`books<books>` which can do things when used such as blowing random shit up or teleporting you to your spawn 
+ * You can craft :doc:`consumable books<books>` which can do things when used such as blowing random shit up or teleporting you to your spawn 
 * Books (and other items in the future) use up a new resource called :ref:`spirit`, a mana system.
  * Your spirit does not regenerate automatically, instead you must do things such as being near players, pets, campfires or the torchdlower
  * You can craft consumable items that will regenerate your spirit such as the edp445 cupcake
