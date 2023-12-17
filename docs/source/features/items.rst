@@ -237,13 +237,16 @@ Backrooms
 --------
 Items related to :doc:`backrooms`
 
-Miscellaneous
---------
-random items idk
-
-Spirit Consumables
+Spirit Items
 --------
 Items to regenerate your :doc:`spirit`
+
+These can be crafted and consumed:
+* EDP's Cupcake: + 100 Spirit
+* Magic Sugar: + 50 Spirit
+* Guzzle Juice: + 25 Spirit
+* Magic Stew: + 15 Spirit, unstackable
+(the enchanted golden apple also regenerates 100 spirit)
 
 .. _cool-red-cap:
 Cool Red Cap
@@ -251,4 +254,9 @@ Cool Red Cap
 Gain 0.1 :doc:`spirit` per second while wearing
 
 Method: Kill a mob wearing it (mobs have a 1/500 chance to spawn with a red cap)
+
+Miscellaneous
+--------
+random items idk
+
 
