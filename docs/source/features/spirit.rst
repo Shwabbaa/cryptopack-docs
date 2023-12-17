@@ -13,17 +13,17 @@ How to regenerate
 Here are the methods to regenerate your spirit:
 
 * Being near:
-  * other players
-  * standing dogs or cats
-  * bees, frogs or turtles
-  * lit campfires
-  * a torchflower or pitcher plant
+   * other players
+   * standing dogs or cats
+   * bees, frogs or turtles
+   * lit campfires
+   * a torchflower or pitcher plant
 * Using consumable items:
-  * Enchanted Golden Apple: 100 Spirit
-  * EDP's Cupcake: 100 Spirit
-  * Magic Sugar: 50 Spirit
-  * Guzzle Juice: 25 Spirit
-  * Magic Stew: 15 Spirit
+   * Enchanted Golden Apple: 100 Spirit
+   * EDP's Cupcake: 100 Spirit
+   * Magic Sugar: 50 Spirit
+   * Guzzle Juice: 25 Spirit
+   * Magic Stew: 15 Spirit
 * Equipping the :ref:`items<Cool Red Cap>`
 * Being on level -2 of :ref:`backrooms<The Backrooms>`
 
