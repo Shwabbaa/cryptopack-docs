@@ -212,13 +212,13 @@ Items to regenerate your :doc:`spirit`
 
 These can be crafted and consumed:
 
-* EDP's Cupcake: + 100 Spirit
+* EDP's Cupcake: +100 Spirit
 
-* Magic Sugar: + 50 Spirit
+* Magic Sugar: +50 Spirit
 
-* Guzzle Juice: + 25 Spirit
+* Guzzle Juice: +25 Spirit
 
-* Magic Stew: + 15 Spirit, unstackable
+* Magic Stew: +15 Spirit, unstackable
 
 
 (the enchanted golden apple also regenerates 100 spirit)
