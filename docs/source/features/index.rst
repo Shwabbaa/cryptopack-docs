@@ -3,6 +3,13 @@ Features
 
 This page lists all the custom features CryptoCraft has to offer
 
+Contents
+--------
+.. toctree::
+  items
+  spirit
+  backrooms
+
 Overview
 --------
 
@@ -22,10 +29,3 @@ Overview
 * Right click with an empty hand to sit on stairs, slabs, and other players
 * Anvil too expensive limit removed
 * You can also use leather instead of rabbit hide to craft a bundle
-
-Contents
---------
-.. toctree::
-  items
-  spirit
-  backrooms
