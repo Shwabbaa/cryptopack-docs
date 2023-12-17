@@ -26,8 +26,7 @@ Manipulates time to switch between night and day.
 Whoooooosh
 """"""""""""""
 Sends any entities around the reader flying away.
-
-Cost: 20 Spirit
+(20 Spirit)
 
 Zeus' Beard Style Magazine
 """"""""""""""
