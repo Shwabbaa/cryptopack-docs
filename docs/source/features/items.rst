@@ -15,3 +15,5 @@ Miscellaneous
 --------
 random items idk
 
+.. _cool-red-cap:
+* Cool Red Cap: Gain 0.1 :doc:`spirit` per second while wearing
