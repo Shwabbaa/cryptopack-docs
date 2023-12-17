@@ -24,7 +24,7 @@ Here are the methods to regenerate your spirit:
    * Magic Sugar: 50 Spirit
    * Guzzle Juice: 25 Spirit
    * Magic Stew: 15 Spirit
-* Equipping the :doc:`Cool Red Cap<./items>`
+* Equipping the :ref:`Cool Red Cap<cool-red-cap>`
 * Being on level -2 of :doc:`The Backrooms<backrooms>`
 
 .. note::
