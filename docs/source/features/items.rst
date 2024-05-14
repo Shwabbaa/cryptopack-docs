@@ -215,9 +215,9 @@ These can be crafted and consumed:
 
 * Magic Sugar: +50 Spirit
 
-* Guzzle Juice: +25 Spirit
+* Guzzle Juice: +25 Spirit, stacks to 16
 
-* Magic Stew: +15 Spirit, unstackable
+* Magic Stew: +25 Spirit, unstackable
 
 
 (the enchanted golden apple also regenerates 100 spirit)
