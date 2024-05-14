@@ -12,7 +12,7 @@ Contents
 
 Overview
 --------
-
+* New custom dimension called :doc:`backrooms`. Hard mobs with great rewards intended for the endgame.
 * Death keepinventory rules change:
  * You keep your inventory if you were killed by a player
  * Items dropped from player death despawn in 24 hours instead of 5 minutes
