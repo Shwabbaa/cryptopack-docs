@@ -224,7 +224,7 @@ These can be crafted and consumed:
 .. _cool-red-cap:
 Cool Red Cap
 """"""""""""""
-Gain 0.2 :doc:`spirit` per second while wearing
+Gain 0.25 :doc:`spirit` per second while wearing
 
 Method: Kill a mob wearing it (mobs have a 1/500 chance to spawn with a red cap)
 
