@@ -201,6 +201,76 @@ Weapons
 ------------
 Custom weapons have different stats, as well as abilities and weaknesses
 
+Greatsword
+""""""""""""""
+Greatswords have more attack damage and lower attack speeds than axes.
+
+Having an item in your offhand will also lower the attack speed of the weapon.
+
+* Netherite Greatsword: 17.5 Damage, 0.55 Attack Speed
+
+* Diamond Greatsword: 16.5 Damage, 0.5 Attack Speed
+
+* Iron Greatsword: 15.5 Damage, 0.45 Attack Speed
+
+* Stone Greatsword: 14.5 Damage, 0.375 Attack Speed
+
+* Wooden/Golden Greatsword: 13.5 Damage, 0.3 Attack Speed
+
+Hammer
+""""""""""""""
+Hammers have slightly lower attack speeds than axes.
+
+Getting a critical hit with this weapon will give the enemy slowness, and deal 2x damage compared to 1.5x normally.
+
+Evolutions that work on "swords" won't work on hammers, but they can hold the normal sword enchants.
+
+* Netherite Hammer: 12 Damage, 0.8 Attack Speed
+
+* Diamond Hammer: 11 Damage, 0.8 Attack Speed
+
+* Iron Hammer: 11 Damage, 0.7 Attack Speed
+
+* Stone Hammer: 11 Damage, 0.6 Attack Speed
+
+* Wooden/Golden Greatsword: 9 Damage, 0.6 Attack Speed
+
+Katana
+""""""""""""""
+Katanas have a quick attack speed but does significantly less damage.
+
+Attacking enemies that don't have armour and arent bosses will deal 1.5x damage.
+
+Sweeping hits deal reduced damage.
+
+* Netherite Katana: 4.75 Damage (7.125 without armour), 2 Attack Speed
+
+* Diamond Katana: 4.25 Damage (6.375 without armour), 2 Attack Speed
+
+* Iron Katana: 3.75 Damage (5.625 without armour), 2 Attack Speed
+
+* Stone Katana: 3.25 Damage (4.875 without armour), 2 Attack Speed
+
+* Wooden/Golden Katana: 2.5 Damage (3.75 without armour), 2 Attack Speed
+
+Longsword
+""""""""""""""
+It's attack speed is in between the sword and the axe.
+
+Having an item in your offhand will also lower the attack speed of the weapon.
+
+Holding the weapon will gain you 2 armour points
+
+* Netherite Longsword: 9.5 Damage, 1.3 Attack Speed
+
+* Diamond Katana: 8.375 Damage, 1.3 Attack Speed
+
+* Iron Katana: 7.25 Damage, 1.3 Attack Speed
+
+* Stone Katana: 6.125 Damage, 1.3 Attack Speed
+
+* Wooden/Golden Katana: 5 Damage, 1.3 Attack Speed
+
 Backrooms
 ------------
 Items related to :doc:`backrooms`
