@@ -275,6 +275,10 @@ Backrooms
 ------------
 Items related to :doc:`backrooms`
 
+Portal Device
+""""""""""""""
+This item allows you to enter the backrooms. You need to build a special portal structure in order to get this to work. More information can be found at :doc:`backrooms`
+
 Spirit Items
 ------------
 Items to regenerate your :doc:`spirit`
