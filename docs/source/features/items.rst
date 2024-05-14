@@ -219,13 +219,12 @@ These can be crafted and consumed:
 
 * Magic Stew: +25 Spirit, unstackable
 
-
-(the enchanted golden apple also regenerates 100 spirit)
+(the enchanted golden apple also regenerates 100 spirit, and a cookie regenerates 1 spirit)
 
 .. _cool-red-cap:
 Cool Red Cap
 """"""""""""""
-Gain 0.1 :doc:`spirit` per second while wearing
+Gain 0.2 :doc:`spirit` per second while wearing
 
 Method: Kill a mob wearing it (mobs have a 1/500 chance to spawn with a red cap)
 
