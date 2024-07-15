@@ -31,10 +31,20 @@ Doom Slayer
 * Pattern: "doom slayer"
 * Items: All Swords
 
+Double Barrel Shotgun
+------------------
+* Pattern: "Double Barrel"
+* Items: TBD
+
 Draupnir
 ------------------
 * Pattern: "draupnir"
 * Items: All Swords
+
+Hatchet
+------------------
+* Pattern: "hatchet"
+* Items: All Axes
 
 Knife
 ------------------
