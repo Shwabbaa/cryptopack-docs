@@ -32,6 +32,11 @@ Freddy Fazbear Head
 * Pattern: "freddy"
 * Items:  Carved Pumpkin
 
+Arthur Morgan Gambler's Hat
+~~~~~~~~~~~~~~~~
+* Pattern: "gambler"
+* Items:  Carved Pumpkin
+
 Meta Quest 2
 ~~~~~~~~~~~~~~~~
 * Pattern: "quest"
@@ -50,6 +55,11 @@ Nacho Sombero
 Raised Cool Glasses
 ~~~~~~~~~~~~~~~~
 * Pattern: "raised cool glasses"
+* Items: Carved Pumpkin
+
+John Marston Ranch Hat
+~~~~~~~~~~~~~~~~
+* Pattern: "ranch"
 * Items: Carved Pumpkin
 
 Armor sets
