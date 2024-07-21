@@ -8,6 +8,11 @@ However, blocks can be reimplemented as items sticking in an invisible item fram
 Furniture
 ==========
 
+Bird House
+~~~~~~~~~~
+* Pattern: N/A moving to new system
+* Items: Oak Planks
+
 Trollish Painting
 ~~~~~~~~~~
 * Pattern: N/A moving to new system
