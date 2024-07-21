@@ -6,6 +6,11 @@ This section covers items (mostly weapons).
 Tools And Weapons
 ============
 
+Blade Of Olympus
+------------------
+* Pattern: Pending Change, N/A
+* Items: All Swords
+
 Blade Of Pure Australian Crack
 ------------------
 * Pattern: "of pure australian crack"
