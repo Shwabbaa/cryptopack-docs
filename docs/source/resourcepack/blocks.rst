@@ -8,7 +8,10 @@ However, blocks can be reimplemented as items sticking in an invisible item fram
 Furniture
 ==========
 
-Nothing yet.
+Trollish Painting
+~~~~~~~~~~
+* Pattern: N/A moving to new system
+* Items: Painting
 
 Other Blocks
 ==========
