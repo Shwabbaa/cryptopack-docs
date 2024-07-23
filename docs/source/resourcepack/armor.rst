@@ -9,37 +9,37 @@ Hats do not give any armor points, they are only for cosmetic value
 
 Baphomet Mask
 ~~~~~~~~~~~~~~~~
-* Pattern: "baphomet"
+* ID: "baphomet_mask"
 * Items: Carved Pumpkin
 
 Cool Glasses
 ~~~~~~~~~~~~~~~~
-* Pattern: "cool glasses"
+* ID: "cool_glasses"
 * Items: Carved Pumpkin
 
 Cool Red Hat
 ~~~~~~~~~~~~~~~~
-* Pattern: "cool red"
+* ID: "cool_red_hat"
 * Items: Carved Pumpkin
 
 Electro's Mask
 ~~~~~~~~~~~~~~~~
-* Pattern: "electro"
+* ID: "electros_mask"
 * Items:  Carved Pumpkin
 
 Freddy Fazbear Head
 ~~~~~~~~~~~~~~~~
-* Pattern: "freddy"
+* Pattern: "freddy_fazbear_head"
 * Items:  Carved Pumpkin
 
 Arthur Morgan Gambler's Hat
 ~~~~~~~~~~~~~~~~
-* Pattern: "gambler"
+* Pattern: "gamblers_hat"
 * Items:  Carved Pumpkin
 
 Meta Quest 2
 ~~~~~~~~~~~~~~~~
-* Pattern: "quest"
+* ID: "meta_quest_2"
 * Items:  Carved Pumpkin
 
 Meteor Hat
@@ -49,17 +49,17 @@ Meteor Hat
 
 Nacho Sombero
 ~~~~~~~~~~~~~~~~
-* Pattern: "nacho"
-* Items: Carved Pumpkin and all food
+* ID: "nacho_sombero"
+* Items: Carved Pumpkin, Cooked Porkchop, Steak, Golden Carrot
 
 Raised Cool Glasses
 ~~~~~~~~~~~~~~~~
-* Pattern: "raised cool glasses"
+* ID: "raised_cool_glasses"
 * Items: Carved Pumpkin
 
 John Marston Ranch Hat
 ~~~~~~~~~~~~~~~~
-* Pattern: "ranch"
+* ID: "ranch_hat"
 * Items: Carved Pumpkin
 
 Armor sets
