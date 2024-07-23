@@ -8,73 +8,73 @@ Tools And Weapons
 
 Blade Of Olympus
 ------------------
-* Pattern: Pending Change, N/A
+* ID: "blade_of_olympus"
 * Items: All Swords
 
 Blade Of Pure Australian Crack
 ------------------
-* Pattern: "of pure australian crack"
+* ID: "blade_of_pure_australian_crack"
 * Items: All Swords
 
 Blades Of Chaos
 ------------------
-* Pattern: "of chaos"
+* Pattern: "blades_of_chaos"
 * Items: All Swords and shields
 
 Blue Boxing Glove
 ------------------
-* Pattern: "of chaos"
-* Items: All Tools
+* ID: "blude_boxing_glove"
+* Items: All Swords
 
 Chainsaw
 ------------------
-* Pattern: "chainsaw"
-* Items: All Tools
+* ID: "chainsaw"
+* Items: All Swords and Axes
 
 Doom Slayer
 ------------------
-* Pattern: "doom slayer"
+* ID: "doom_slayer"
 * Items: All Swords
 
 Double Barrel Shotgun
 ------------------
-* Pattern: "Double Barrel"
-* Items: TBD
+* ID: "double_barrel_shotgun"
+* Items: All Swords
 
 Draupnir
 ------------------
-* Pattern: "draupnir"
+* ID: "draupnir"
 * Items: All Swords
 
 Hatchet
 ------------------
-* Pattern: "hatchet"
+* ID: "hatchet"
 * Items: All Axes
 
 Knife
 ------------------
-* Pattern: "knife"
+* ID: "knife"
 * Items: All Swords
 
 Leonidas Spear
 ------------------
-* Pattern: "leonidas spear"
+* ID: "leonidas_spear"
 * Items: All Swords
 
 Leviathan Axe
 ------------------
-* Pattern: "leviathan axe"
+* ID: "leviathan_axe"
 * Items: All Axes
 
 Meta Quest 2 Controller Left
 ------------------
-* Pattern: "left quest"
-* Items: All Tools
+* ID: "meta_quest_2_controller_left"
+* Items: All Swords
 
 Meta Quest 2 Controller Right
 ------------------
-* Pattern: "right quest"
-* Items: All Tools
+* ID: "meta_quest_2_controller_right"
+* Items: All Swords
 
 Meteor Shovel
 ------------------
@@ -131,28 +131,32 @@ Shields
 
 Basic Stone Shield
 ------------------
-* Pattern: "stone"
+* ID: "shield_basic_stone"
 * Items: Shield
 
-Blades Of Chaos (sword blocking)
+Blades Of Chaos
 ------------------
-* Pattern: "of chaos"
+* ID: "blades_of_chaos"
 * Items: All Swords and shields
 
 Guardian Shield
 ------------------
-* Pattern: "guardian"
+* ID: "guardian_shield"
 * Items: Shield
+
+Guardian Shield Blade
+------------------
+* ID: "guardian_shield_blade"
+* Items: Shield, All Swords
 
 Meteor Shield
 ------------------
-* Pattern: "meteor"
+* ID: "meteor_shield"
 * Items: Shield
-
 
 Template Shield
 ------------------
-* Pattern: "template"
+* ID: "template_shield"
 * Items: Shield
 
 Food
