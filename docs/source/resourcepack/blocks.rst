@@ -30,4 +30,4 @@ Garm
 Pajama Man
 ~~~~~~~~~~
 * ID: "pajama_man"
-* Items: Painting
+* Items: Totem of Undying, Carved Pumpkin, Diamond
