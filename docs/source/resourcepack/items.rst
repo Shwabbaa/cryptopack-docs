@@ -157,32 +157,33 @@ Template Shield
 
 Food
 ============
+Due to the new model system, only some food items are supported for custom models. For now, golden carrot and steak are only supported for custom models (some models may support other food items like kfc chicken)
+
+$4.50 Hotdog
+------------------
+* ID: "hotdog"
+* Items: Bread, Steak, Cooked Porkchop, Golden Carrot
 
 Nacho Sombero
 ------------------
-* Pattern: "nacho"
-* Items: All foods, carved pumpkin
+* ID: "nacho_sombero"
+* Items: Steak, Cooked Porkchop, Golden Carrot, Carved Pumpkin
 
 KFC
 ------------------
-* Pattern: "kfc"
-* Items: All foods (not cake)
+* ID: "kfc"
+* Items: Steak, Cooked Porkchop, Golden Carrot, Cooked Chicken
 
 Vegemite
 ------------------
-* Pattern: "vegemite"
-* Items: All foods (not cake)
+* ID: "vegemite"
+* Items: Steak, Golden Carrot
 
 Bows & Crossbows
 ============
 Bows and crossbows are actually animated, consisting of 4 animation frames.
 
 No items yet.
-
-Totems
-============
-
-There are a few totem textures, but you'll have to find them for yourself...
 
 Other Items
 ============
