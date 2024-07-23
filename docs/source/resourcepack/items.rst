@@ -6,6 +6,16 @@ This section covers items (mostly weapons).
 Tools And Weapons
 ============
 
+Blade of Blood
+------------------
+* ID: "blade_of_blood"
+* Items: All Swords
+
+Blade of Ghouls
+------------------
+* ID: "blade_of_ghouls"
+* Items: All Swords
+
 Blade Of Olympus
 ------------------
 * ID: "blade_of_olympus"
@@ -14,6 +24,16 @@ Blade Of Olympus
 Blade Of Pure Australian Crack
 ------------------
 * ID: "blade_of_pure_australian_crack"
+* Items: All Swords
+
+Blade of Sin
+------------------
+* Pattern: "blade_of_sin"
+* Items: All Swords
+
+Blade of Unliving
+------------------
+* Pattern: "blade_of_unliving"
 * Items: All Swords
 
 Blades Of Chaos
@@ -78,48 +98,28 @@ Meta Quest 2 Controller Right
 
 Meteor Shovel
 ------------------
-* Pattern: "meteor"
-* Items: All Tools
+* ID: "meteor_shovel"
+* Items: All Swords, Pickaxes, Axes and Shovels
 
 Mjolnir
 ------------------
-* Pattern: "mjolnir"
-* Items: All Tools
+* ID: "mjolnir"
+* Items: All Swords (includes the hammer!w)
 
 Red Boxing Glove
 ------------------
-* Pattern: "red boxing glove"
+* ID: "red boxing glove"
 * Items: All Tools
 
 Spartan Sword
 ------------------
-* Pattern: "sparta"
+* ID: "spartan_sword"
 * Items: All Swords
 
 Stick Pickaxe
 ------------------
-* Pattern: "stick pickaxe"
-* Items: All Tools
-
-Sword of Blood (Blade of Blood)
-------------------
-* Pattern: "of blood"
-* Items: All Swords
-
-Sword of Ghouls (Blade of Ghouls)
-------------------
-* Pattern: "of ghouls"
-* Items: All Swords
-
-Sword of Sin (Blade of Sin)
-------------------
-* Pattern: "of sin"
-* Items: All Swords
-
-Sword of Unliving (Blade of Unliving)
-------------------
-* Pattern: "of sin"
-* Items: All Swords
+* ID: "stick_pickaxe"
+* Items: All Pickaxes
 
 Troll Sword
 ------------------
