@@ -28,17 +28,17 @@ Blade Of Pure Australian Crack
 
 Blade of Sin
 ------------------
-* Pattern: "blade_of_sin"
+* ID: "blade_of_sin"
 * Items: All Swords
 
 Blade of Unliving
 ------------------
-* Pattern: "blade_of_unliving"
+* ID: "blade_of_unliving"
 * Items: All Swords
 
 Blades Of Chaos
 ------------------
-* Pattern: "blades_of_chaos"
+* ID: "blades_of_chaos"
 * Items: All Swords and shields
 
 Blue Boxing Glove
@@ -201,15 +201,20 @@ Other Items
 
 Black Kableeb
 ------------------
-* Pattern: "black kableeb"
-* Items: All foods (not cake), carved pumpkin, all tools, stick
+* ID: "black_kableeb"
+* Items: Main Food Items, Carved Pumpkin, All Swords
 
 Gjallar Horn
 ------------------
-* ID: "gjallar_hornw "
+* ID: "gjallar_horn"
 * Items: Goat horn
+
+Jack Daniels
+------------------
+* ID: "jack_daniels"
+* Items: Water Bottle, All Potions
 
 Kableeb
 ------------------
-* Pattern: "kableeb"
-* Items: All foods (not cake), carved pumpkin, all tools, stick
+* ID: "kableeb"
+* Items: Main Food Items, Carved Pumpkin, All Swords
