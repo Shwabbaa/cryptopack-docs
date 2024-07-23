@@ -10,12 +10,12 @@ Furniture
 
 Bird House
 ~~~~~~~~~~
-* Pattern: N/A moving to new system
+* ID: "bird_house"
 * Items: Oak Planks
 
 Trollish Painting
 ~~~~~~~~~~
-* Pattern: N/A moving to new system
+* ID: "trollish_painting"
 * Items: Painting
 
 Other Blocks
@@ -23,7 +23,11 @@ Other Blocks
 
 Garm
 ~~~~~~~~~~
-* Pattern: "garm"
+* ID: "garm"
 * Items: Diamond
 * Description: A dog
 
+Pajama Man
+~~~~~~~~~~
+* ID: "pajama_man"
+* Items: Painting
