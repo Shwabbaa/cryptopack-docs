@@ -64,8 +64,10 @@ John Marston Ranch Hat
 
 Armor sets
 ==========
-
 Armor sets are retextured armor. They **cannot be remodelled**. These armor can give armor points.
+
+.. warning::
+  CURRENTLY BROKEN DUE TO 1.21 UPDATE
 
 Ares Armor
 ~~~~~~~~~~~~~~~~
