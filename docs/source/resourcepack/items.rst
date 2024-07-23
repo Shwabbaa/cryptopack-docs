@@ -157,27 +157,34 @@ Template Shield
 
 Food
 ============
-Due to the new model system, only some food items are supported for custom models. For now, golden carrot and steak are only supported for custom models (some models may support other food items like kfc chicken)
+Due to the new model system, only some food items are supported for custom models.
+
+Main Food Items:
+* Steak
+* Cooked Porkchop
+* Golden Carrot
+* Cooked Chicken
+* Bread
 
 $4.50 Hotdog
 ------------------
 * ID: "hotdog"
-* Items: Bread, Steak, Cooked Porkchop, Golden Carrot
+* Items: Main Food Items
 
 Nacho Sombero
 ------------------
 * ID: "nacho_sombero"
-* Items: Steak, Cooked Porkchop, Golden Carrot, Carved Pumpkin
+* Items: Main Food Items, Carved Pumpkin
 
 KFC
 ------------------
 * ID: "kfc"
-* Items: Steak, Cooked Porkchop, Golden Carrot, Cooked Chicken
+* Items: Main Food Items
 
 Vegemite
 ------------------
 * ID: "vegemite"
-* Items: Steak, Golden Carrot
+* Items: Main Food Items
 
 Bows & Crossbows
 ============
