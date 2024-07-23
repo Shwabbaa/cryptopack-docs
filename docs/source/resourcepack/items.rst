@@ -202,7 +202,7 @@ Black Kableeb
 
 Gjallar Horn
 ------------------
-* Pattern: "gjallar"
+* ID: "gjallar_hornw "
 * Items: Goat horn
 
 Kableeb
