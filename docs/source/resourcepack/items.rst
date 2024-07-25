@@ -232,3 +232,8 @@ Kableeb
 ------------------
 * ID: "kableeb"
 * Items: Main Food Items, Carved Pumpkin, All Swords
+
+Wanted Anesti
+------------------
+* ID: "wanted_anesti"
+* Items: Paper
