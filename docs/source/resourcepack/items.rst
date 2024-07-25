@@ -104,7 +104,12 @@ Meteor Shovel
 Mjolnir
 ------------------
 * ID: "mjolnir"
-* Items: All Swords (includes the hammer!w)
+* Items: Mace, All Swords (includes the hammer!)
+
+Pink Lightsaber
+------------------
+* ID: "pink_lightsaber"
+* Items: All Swords
 
 Red Boxing Glove
 ------------------
@@ -164,10 +169,15 @@ Food
 Due to the new model system, only some food items are supported for custom models.
 
 Main Food Items:
+
 * Steak
+
 * Cooked Porkchop
+
 * Golden Carrot
+
 * Cooked Chicken
+
 * Bread
 
 $4.50 Hotdog
@@ -195,6 +205,10 @@ Bows & Crossbows
 Bows and crossbows are actually animated, consisting of 4 animation frames.
 
 No items yet.
+
+Polaroids
+============
+You'll have to find them yourself using /model...
 
 Other Items
 ============
