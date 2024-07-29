@@ -238,6 +238,11 @@ Black Kableeb
 * ID: "black_kableeb"
 * Items: Main Food Items, Carved Pumpkin, All Swords
 
+Do Not Approach
+------------------
+* ID: "do_not_approach"
+* Items: Paper
+
 Gjallar Horn
 ------------------
 * ID: "gjallar_horn"
