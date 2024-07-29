@@ -134,7 +134,7 @@ Troll Sword
 Wolverine Claws
 ------------------
 * ID: "wolverine_claws"
-* Items: All Swords
+* Items: All Swords, Shield
 
 Shields
 ============
@@ -147,7 +147,7 @@ Basic Stone Shield
 Blades Of Chaos
 ------------------
 * ID: "blades_of_chaos"
-* Items: All Swords and shields
+* Items: All Swords and shield
 
 Guardian Shield
 ------------------
