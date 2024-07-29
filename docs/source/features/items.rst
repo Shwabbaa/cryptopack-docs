@@ -88,9 +88,7 @@ Spawns 5 TNT on your feet that does break blocks
 
 X-ray 101
 """"""""""""""
-Exposes all mobs within 72 blocks of the reader.
-
-Cost: 25 Spirit
+Exposes all mobs within 72 blocks of the reader. (25 Spirit)
 
 Super OP Book
 """"""""""""""
@@ -131,8 +129,7 @@ Teleports you to a random location within 10,000 blocks
 Flopper Colouring Book
 """"""""""""""
 Grants the reader Conduit Power and Dolphin's Grace for ten minutes.
-
-Cost: 30 Spirit
+(30 Spirit)
 
 Enderman Farm Codex
 """"""""""""""
