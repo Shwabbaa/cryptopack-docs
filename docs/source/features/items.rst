@@ -39,7 +39,6 @@ Spawns six spirit wolves that will fight for the reader. (25 Spirit)
 
 Wolves despawn after 2-3 minutes.
 
-
 Negromancy Guide
 """"""""""""""
 Spawns tons of undead mobs around depending on the biome, dimension and the block they're standing on. (15 Spirit)
