@@ -203,25 +203,24 @@ Custom weapons have different stats, as well as abilities and weaknesses
 
 Greatsword
 """"""""""""""
-Greatswords have more attack damage and lower attack speeds than axes.
-
+Greatswords have more attack damage and lower attack speeds than axes. They also have significantly increased reach.
 Having an item in your offhand will also lower the attack speed of the weapon.
 
-* Netherite Greatsword: 17.5 Damage, 0.55 Attack Speed
+* Netherite Greatsword: 17.5 Damage, 0.55 Attack Speed, + 1 Reach
 
-* Diamond Greatsword: 16.5 Damage, 0.5 Attack Speed
+* Diamond Greatsword: 16.5 Damage, 0.5 Attack Speed, + 1 Reach
 
-* Iron Greatsword: 15.5 Damage, 0.45 Attack Speed
+* Iron Greatsword: 15.5 Damage, 0.45 Attack Speed, + 1 Reach
 
-* Stone Greatsword: 14.5 Damage, 0.375 Attack Speed
+* Stone Greatsword: 14.5 Damage, 0.375 Attack Speed, + 1 Reach
 
-* Wooden/Golden Greatsword: 13.5 Damage, 0.3 Attack Speed
+* Wooden/Golden Greatsword: 13.5 Damage, 0.3 Attack Speed, + 1 Reach
 
 Hammer
 """"""""""""""
 Hammers have slightly lower attack speeds than axes.
 
-Getting a critical hit with this weapon will give the enemy slowness, and deal 2x damage compared to 1.5x normally.
+Getting a critical hit with this weapon will give the enemy slowness.
 
 Evolutions that work on "swords" won't work on hammers, but they can hold the normal sword enchants.
 
@@ -237,39 +236,33 @@ Evolutions that work on "swords" won't work on hammers, but they can hold the no
 
 Katana
 """"""""""""""
-Katanas have a quick attack speed but does significantly less damage.
+Katanas have a quick attack speed but does significantly less damage and has less reach.
 
-Attacking enemies that don't have armour and arent bosses will deal 1.5x damage.
+Attacking enemies that don't have armour and are not bosses will deal 1.5x damage.
 
-Sweeping hits deal reduced damage.
+* Netherite Katana: 4.75 Damage (7.125 without armour), 2 Attack Speed, -0.5 Reach
 
-* Netherite Katana: 4.75 Damage (7.125 without armour), 2 Attack Speed
+* Diamond Katana: 4.25 Damage (6.375 without armour), 2 Attack Speed, -0.5 Reach
 
-* Diamond Katana: 4.25 Damage (6.375 without armour), 2 Attack Speed
+* Iron Katana: 3.75 Damage (5.625 without armour), 2 Attack Speed, -0.5 Reach
 
-* Iron Katana: 3.75 Damage (5.625 without armour), 2 Attack Speed
+* Stone Katana: 3.25 Damage (4.875 without armour), 2 Attack Speed, -0.5 Reach
 
-* Stone Katana: 3.25 Damage (4.875 without armour), 2 Attack Speed
-
-* Wooden/Golden Katana: 2.5 Damage (3.75 without armour), 2 Attack Speed
+* Wooden/Golden Katana: 2.5 Damage (3.75 without armour), 2 Attack Speed, -0.5 Reach
 
 Longsword
 """"""""""""""
-It's attack speed is in between the sword and the axe.
+It's attack speed and damage is in between the sword and the axe. Has slightly increased reach.
 
-Having an item in your offhand will also lower the attack speed of the weapon.
+* Netherite Longsword: 9.5 Damage, 1.3 Attack Speed, +0.5 Reach
 
-Holding the weapon will gain you 2 armour points
+* Diamond Katana: 8.375 Damage, 1.3 Attack Speed, +0.5 Reach
 
-* Netherite Longsword: 9.5 Damage, 1.3 Attack Speed
+* Iron Katana: 7.25 Damage, 1.3 Attack Speed, +0.5 Reach
 
-* Diamond Katana: 8.375 Damage, 1.3 Attack Speed
+* Stone Katana: 6.125 Damage, 1.3 Attack Speed, +0.5 Reach
 
-* Iron Katana: 7.25 Damage, 1.3 Attack Speed
-
-* Stone Katana: 6.125 Damage, 1.3 Attack Speed
-
-* Wooden/Golden Katana: 5 Damage, 1.3 Attack Speed
+* Wooden/Golden Katana: 5 Damage, 1.3 Attack Speed, +0.5 Reach
 
 Backrooms
 ------------
