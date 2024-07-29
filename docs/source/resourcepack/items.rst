@@ -128,7 +128,12 @@ Stick Pickaxe
 
 Troll Sword
 ------------------
-* Pattern: "troll"
+* ID: "troll_sword"
+* Items: All Swords
+
+Wolverine Claws
+------------------
+* ID: "wolverine_claws"
 * Items: All Swords
 
 Shields
