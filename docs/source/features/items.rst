@@ -269,6 +269,28 @@ Portal Device
 """"""""""""""
 This item allows you to enter the backrooms. You need to build a special portal structure in order to get this to work. More information can be found at :doc:`backrooms`
 
+.. _cat-bazooka:
+Cat Bazooka
+""""""""""""""
+Shoot exploding cats.
+(10 Spirit)
+
+.. _time-capsule:
+Time Capsule
+""""""""""""""
+Allows you to retrieve items from past seasons and store them for future seasons. Has 3 slots, works like an ender chest that never resets.
+(10 Spirit)
+
+.. _conversion-potion:
+Conversion Potion
+""""""""""""""
+Converts mobs to other types of mobs when thrown. Does not work on backrooms mobs.
+
+.. _forcefield:
+Forcefield
+""""""""""""""
+Fortnite shield bubble. Players can walk through but any other entity cannot (including projectiles and items). Lasts for 1 minute before breaking.
+
 Spirit Items
 ------------
 Items to regenerate your :doc:`spirit`
@@ -292,12 +314,28 @@ Gain 0.25 :doc:`spirit` per second while wearing
 
 Method: Kill a mob wearing it (mobs have a 1/500 chance to spawn with a red cap)
 
-Cat Bazooka
+Miscellaneous
+------------
+
+Book of Rememberance
 """"""""""""""
-Shoots explosive cats. 1 second cooldown.
-(10 Spirit)
+Shows you your death positions from the last 100 deaths.
 
+Target Dummy
+""""""""""""""
+Spawns an armour stand where you can test weapon damage from.
 
+Super Susipcious Stew
+""""""""""""""
+Gives you 3 random potion effects.
 
+Wrench
+""""""""""""""
+Allows you to rotate and modify block states.
+
+Invisibillity Cloak
+""""""""""""""
+Makes you undetectable to mobs and completely invisible to players (they cannot see the chestplate).
+Only works when you have no other items in your inventory (intended for item recovery purposes).
 
 
