@@ -291,6 +291,47 @@ Forcefield
 """"""""""""""
 Fortnite shield bubble. Players can walk through but any other entity cannot (including projectiles and items). Lasts for 1 minute before breaking.
 
+.. _level-break:
+Level Break
+""""""""""""""
+Removes you from :doc:`backrooms` immediately.
+You cannot use it if you've taken damage recently.
+
+.. _level-break:
+Level Break
+""""""""""""""
+Removes you from :doc:`backrooms` immediately.
+You cannot use it if you've taken damage recently.
+
+.. _tpa-ring:
+TPA Ring
+""""""""""""""
+Teleports you to other players with the ring. Consumes upon use when sending or recieving teleports. Cannot be used to teleport in between the backrooms and any other dimension.
+You cannot use it if you've taken damage recently.
+
+.. _back-ring:
+Back Ring
+""""""""""""""
+Teleports you to the previous location before you used a TPA ring. This is not used to go back to your death location.
+
+.. _portable-bench:
+Portable Bench
+""""""""""""""
+Allows you to access a wide variety of workstations (such as crafting table, anvil etc) by right clicking the item in your inventory or on your hand.
+
+.. _magic-mirror:
+Magic Mirror
+""""""""""""""
+Teleports you to your spawn point.
+You cannot use it if you've taken damage recently.
+(40 Spirit)
+
+.. _level-crystals:
+Level Ascension/Descension Crystals
+""""""""""""""
+Teleports you up/down a level in the Backrooms respectively.
+You cannot use it if you've taken damage recently.
+
 Spirit Items
 ------------
 Items to regenerate your :doc:`spirit`
