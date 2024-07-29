@@ -190,6 +190,11 @@ $4.50 Hotdog
 * ID: "hotdog"
 * Items: Main Food Items
 
+Coke Brick
+------------------
+* ID: "coke_brick"
+* Items: Main Food Items
+
 Nacho Sombero
 ------------------
 * ID: "nacho_sombero"
