@@ -5,7 +5,13 @@ This page lists all the custom features CryptoCraft has to offer
 
 Overview
 --------
-* New custom dimension called :doc:`backrooms`. Hard mobs with great rewards intended for the endgame.
+* New custom dimension called :doc:`backrooms`.
+ * New more difficult mobs to fight
+ * Get new rewards from chests - mainly evolution stones that can upgrade your equipment
+* Custom world generation for all 3 dimensions
+ * 100+ new structures (too many to list)
+  * Major datapacks that provide custom structures are `Dungeons and Taverns <https://www.curseforge.com/minecraft/mc-mods/dungeon-and-taverns>`_ and `Incendium <https://stardustlabs.miraheze.org/wiki/Incendium>`_. Both datapacks have challenging fights.
+ * New biomes - includes new cave biomes
 * Death keepinventory rules change:
  * You keep your inventory if you were killed by a player
  * Items dropped from player death despawn in 24 hours instead of 5 minutes
