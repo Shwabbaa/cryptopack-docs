@@ -62,6 +62,11 @@ John Marston Ranch Hat
 * ID: "ranch_hat"
 * Items: Carved Pumpkin
 
+Straw Hat
+~~~~~~~~~~~~~~~~
+* ID: "straw_hat"
+* Items: Carved Pumpkin
+
 Armor sets
 ==========
 Armor sets are retextured armor. They **cannot be remodelled**. These armor can give armor points.
