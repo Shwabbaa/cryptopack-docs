@@ -11,8 +11,9 @@ Resource Pack
    blocks
    sounds
 
-**CryptoPack** is a custom resource pack built for the #1 open-world survival horror roleplay platform, CryptoCraft.
-It has named custom textures, allowing users to pick and choose which textures they want for a specific item by renaming it.
+**CryptoCraft Resourcepack** is a custom resource pack built for the CryptoCraft server that allows for users to use custom models and textures on their items, as well as providing models and textures for custom items in the server.
+
+To change the model of the item you're holding, use the command /model <model_id>. Typing /model will autocomplete you a list of available models to use.
 
 Check out :doc:`getting_started` to learn how to install the resourcepack, as well as the required mods to use it.
 
