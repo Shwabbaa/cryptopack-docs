@@ -71,6 +71,11 @@ Draupnir
 * ID: "draupnir"
 * Items: All Swords
 
+Fent Needle
+------------------
+* ID: "fent_needle"
+* Items: All Swords, Main Food Items, Totem of Undying
+
 Hatchet
 ------------------
 * ID: "hatchet"
