@@ -237,15 +237,15 @@ Katanas have a quick attack speed but does significantly less damage and has les
 
 Attacking enemies that don't have armour and are not bosses will deal 1.5x damage.
 
-* Netherite Katana: 4.75 Damage (7.125 without armour), 2 Attack Speed, -0.5 Reach
+* Netherite Katana: 5.7 Damage (8.55 without armour), 2 Attack Speed, -0.5 Reach
 
-* Diamond Katana: 4.25 Damage (6.375 without armour), 2 Attack Speed, -0.5 Reach
+* Diamond Katana: 5.1 Damage (7.65 without armour), 2 Attack Speed, -0.5 Reach
 
-* Iron Katana: 3.75 Damage (5.625 without armour), 2 Attack Speed, -0.5 Reach
+* Iron Katana: 4.5 Damage (6.75 without armour), 2 Attack Speed, -0.5 Reach
 
-* Stone Katana: 3.25 Damage (4.875 without armour), 2 Attack Speed, -0.5 Reach
+* Stone Katana: 3.8 Damage (5.7 without armour), 2 Attack Speed, -0.5 Reach
 
-* Wooden/Golden Katana: 2.5 Damage (3.75 without armour), 2 Attack Speed, -0.5 Reach
+* Wooden/Golden Katana: 3 Damage (4.5 without armour), 2 Attack Speed, -0.5 Reach
 
 Longsword
 """"""""""""""
@@ -292,8 +292,12 @@ Gain 0.25 :doc:`spirit` per second while wearing
 
 Method: Kill a mob wearing it (mobs have a 1/500 chance to spawn with a red cap)
 
-Miscellaneous
-------------
-random items idk
+Cat Bazooka
+""""""""""""""
+Shoots explosive cats. 1 second cooldown.
+(10 Spirit)
+
+
+
 
 
