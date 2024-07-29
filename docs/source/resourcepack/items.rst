@@ -31,6 +31,11 @@ Blade of Sin
 * ID: "blade_of_sin"
 * Items: All Swords
 
+Blade of Uncertainty
+------------------
+* ID: "blade_of_uncertainty"
+* Items: All Swords
+
 Blade of Unliving
 ------------------
 * ID: "blade_of_unliving"
