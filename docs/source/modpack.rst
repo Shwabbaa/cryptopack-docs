@@ -11,7 +11,7 @@ Installation
    If you already have the Overwolf version, it doesn't matter but this tutorial is built for standalone.
 
 #. Download `CurseForge Launcher <https://www.curseforge.com/download/app>`_ and Select "Download standalone"
-#. Download `the modpack <https://mega.nz/file/iPQViYZL#OYmYJ9ILBkB_qFAnvYDS_sluCgXU2i2fJMy_IXMXrKU>`_
+#. Download `the modpack <https://mega.nz/file/bSIHABzQ#AAjwzgYKjTEXrHv9-hzt1EsQJMV0o_HBxnX4ugqZrec>`_
 #. Install the curseforge launcher
 #. Click "Minecraft" when choosing a game
 #. Choose where to setup your game instances, doesn't matter where just pick somewhere
