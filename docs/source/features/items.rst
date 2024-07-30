@@ -3,7 +3,9 @@ Items
 
 List of all items in CryptoCraft.
 
-All recipes for items can be found in the vanilla recipe book.
+All recipes for items can be found by searching for the item's name the vanilla recipe book.
+
+All items can be crafted unless otherwise specified.
 
 Books
 ------------
@@ -295,12 +297,7 @@ Level Break
 """"""""""""""
 Removes you from :doc:`backrooms` immediately.
 You cannot use it if you've taken damage recently.
-
-.. _level-break:
-Level Break
-""""""""""""""
-Removes you from :doc:`backrooms` immediately.
-You cannot use it if you've taken damage recently.
+Backrooms Mobs have a very low chance to drop this item when killed.
 
 .. _tpa-ring:
 TPA Ring
@@ -330,6 +327,7 @@ Level Ascension/Descension Crystals
 """"""""""""""
 Teleports you up/down a level in the Backrooms respectively.
 You cannot use it if you've taken damage recently.
+Found in backrooms chest loot.
 
 Spirit Items
 ------------
