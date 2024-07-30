@@ -3,8 +3,10 @@ Getting Started
 
 This will cover how to install the resourcepack, and how to rename rename an item to change it's texture.
 
-Installation
+Installation (old)
 ----------
+.. note::
+  The new custom model system is 100% mod free and works on vanilla. However mods are still required for custom armour textures.
 
 #. Install **ANY** of these
 
@@ -21,36 +23,17 @@ Installation
 
 That's it!
 
-Your first custom item
+Using commands to apply a custom model
 ------------
 We will be creating a Meteor Client Sword.
 
-#. Find the item you want (in this case, it's the Meteor Client sword in :doc:`items`)
-#. Look at the text pattern to figure out what to name:
+* Find the item you want (in this case, it's the Meteor Client sword in :doc:`items`)
 
-   * "Name: "Meteor Tool", Text: "meteor", ID: meteor_sword, Items:"All Tools and Weapons""
-   
-   * We are looking for the Text field, so we will rename our item to something containing Meteor (case insensitive, can contain formatting like colours)
-   
-   * Examples:
+* In the document: ' ID: "meteor_sword", Supported Items: Swords '
 
-      * Meteor Sword
-      * meteor
-      * METEOR AXE
-      * <red>METEOR
-    
-    * The Items field tells you what items can be renamed, in this case all tools and weapons can be renamed to make the meteor tool.
-    
-#. Rename your item using /itemname, or an anvil.
-
-.. note::
-  This simple tutorial does **not** apply to custom blocks, as it requires extra item frame work to be done.
-  
-  You can find more information on how to creat custom blocks in :doc:`blocks`
-
+* Hold a sword and type /model meteor_sword
 
 Uninstalling
 ------------
 #. Run /resourcepack
 #. Click "Uninstall"
-#. Rejoin the server
