@@ -1,7 +1,7 @@
 CryptoCraft
 ===================================
 
-CryptoCraft is a semi-modded Minecraft server with publicly used and custom content. It features a new custom dimension, :doc:`features/index <The Backrooms>` and the ability to create/apply custom textures and models to your items, and completely overhauled world generation and new custom structures.
+CryptoCraft is a semi-modded Minecraft server with publicly used and custom content. It features a new custom dimension, :doc:`backrooms` and the ability to create/apply custom textures and models to your items using a custom :doc:`resourcepack/index`, and completely overhauled world generation and new custom structures.
 
 Pages
 --------
