@@ -64,7 +64,7 @@ Doom Slayer
 Double Barrel Shotgun
 ------------------
 * ID: "double_barrel_shotgun"
-* Items: All Swords
+* Items: All Swords, Crossbow
 
 Draupnir
 ------------------
@@ -80,6 +80,11 @@ Hatchet
 ------------------
 * ID: "hatchet"
 * Items: All Axes
+
+Hunting Knife
+------------------
+* ID: "hunting_knife"
+* Items: All Swords
 
 Knife
 ------------------
@@ -222,9 +227,12 @@ Vegemite
 
 Bows & Crossbows
 ============
-Bows and crossbows are actually animated, consisting of 4 animation frames.
+Bows and crossbows are actually animated, consisting of 4 animation frames for bows, and 5 frames for crossbows.
 
-No items yet.
+Double Barrel Shotgun
+------------------
+* ID: "double_barrel_shotgun"
+* Items: All Swords, Crossbow
 
 Polaroids
 ============
