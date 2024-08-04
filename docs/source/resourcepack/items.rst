@@ -266,6 +266,11 @@ Kableeb
 * ID: "kableeb"
 * Items: Main Food Items, Carved Pumpkin, All Swords
 
+Polaroid Camera
+------------------
+* ID: "polaroid_camera"
+* Items: Iron Bars
+
 Wanted Anesti
 ------------------
 * ID: "wanted_anesti"
