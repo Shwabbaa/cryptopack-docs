@@ -269,7 +269,7 @@ Kableeb
 Polaroid Camera
 ------------------
 * ID: "polaroid_camera"
-* Items: Iron Bars
+* Items: Iron Bars, Spyglass (not working)
 
 Wanted Anesti
 ------------------
