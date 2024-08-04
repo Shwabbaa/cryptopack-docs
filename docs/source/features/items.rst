@@ -212,7 +212,8 @@ Spawns suspicious sand and gravel around the reader.
 
 Heavy Metal
 """"""""""""""
-Adds 5 hearts to the reader. All hearts disappear upon death. This effect cannot be stacked. 
+Adds 5 hearts to the reader. All hearts disappear upon death. This effect cannot be stacked.
+This book is the hardest to craft in the game requiring a heavy core.
 (45 Spirit)
 
 Big Book
