@@ -164,7 +164,7 @@ Summon cats.
 Free Bird Solo
 """"""""""""""
 Grants the reader flight for five minutes.
-
+Dying or drinking milk will remove this effect.
 Doesn't work in :doc:`backrooms`
 (25 Spirit)
 
@@ -190,10 +190,35 @@ Gay Science
 Grow flowers around the reader.
 (15 Spirit)
 
-Wavey Arts
+Firework Arts
 """"""""""""""
 Sets off a firework display around the reader.
 (10 Spirit)
+
+Midget Tome
+""""""""""""""
+Makes the reader 1 block tall for 10 minutes. Dying or drinking milk will remove this effect.
+(40 Spirit)
+
+Hacker's Handbook
+""""""""""""""
+Gives the reader super long (+3 entity and +4.5 block reach) for 5 minutes. Dying or drinking milk will remove this effect.
+(30 Spirit)
+
+Archaeology For Lazy People
+""""""""""""""
+Spawns suspicious sand and gravel around the reader.
+(30 Spirit)
+
+Heavy Metal
+""""""""""""""
+Adds 5 hearts to the reader. All hearts disappear upon death. This effect cannot be stacked. 
+(45 Spirit)
+
+Big Book
+""""""""""""""
+Makes the reader double in size for 10 minutes. Also increases some attributes like speed, step height and jump height. Dying or drinking milk will remove this effect.
+(30 Spirit)
 
 Weapons
 ------------
