@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'CryptoPack'
-copyright = '2023, Shwabbaa'
+copyright = '2024, Shwabbaa'
 author = 'Shwabbaa'
 
 release = '2.0'
