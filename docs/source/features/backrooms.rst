@@ -30,3 +30,4 @@ Requirements
    * 1x Portal Device (place anywhere on the portal's rim)
 
 .. image:: images/portal_device_structure.png
+   :height: 360
