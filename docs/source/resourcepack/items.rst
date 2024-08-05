@@ -234,6 +234,11 @@ Double Barrel Shotgun
 * ID: "double_barrel_shotgun"
 * Items: All Swords, Crossbow
 
+Springfield Rifle
+------------------
+* ID: "springfield"
+* Items: Crossbow
+
 Polaroids
 ============
 You'll have to find them yourself using /model...
