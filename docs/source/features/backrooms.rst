@@ -12,6 +12,7 @@ Requirements
 #. This experience is reccomended after you have maxed out netherite armour and a raid farm to fill your inventory with totems of undying.
 
 #. Craft a Backrooms Portal Device using the recipe below:
+
 .. image:: images/portal_device_recipe.png
 
 #. Build the portal's structure as shown.
