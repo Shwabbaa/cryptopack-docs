@@ -264,7 +264,12 @@ Gjallar Horn
 Jack Daniels
 ------------------
 * ID: "jack_daniels"
-* Items: Water Bottle, All Potions
+* Items: Water Bottle, All Potions, All Food Items
+
+Jim Beam
+------------------
+* ID: "jim_beam"
+* Items: Water Bottle, All Potions, All Food Items
 
 Kableeb
 ------------------
