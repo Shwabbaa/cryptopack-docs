@@ -40,3 +40,4 @@ Requirements
 
    .. image:: images/portal_device_code_menu.png
       :height: 360
+
