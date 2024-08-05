@@ -7,6 +7,11 @@ Hats
 Hats are remodelled pumpkin heads. The pumpkin overlay is removed from this resourcepack.
 Hats do not give any armor points, they are only for cosmetic value
 
+Angler Hat
+~~~~~~~~~~~~~~~~
+* ID: "angler_hat"
+* Items: Angler Hat
+
 Baphomet Mask
 ~~~~~~~~~~~~~~~~
 * ID: "baphomet_mask"
