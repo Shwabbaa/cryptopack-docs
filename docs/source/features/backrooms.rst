@@ -13,7 +13,7 @@ Requirements
 
 #. Craft a Backrooms Portal Device using the recipe below:
 
-.. image:: images/portal_device_recipe.png
+   .. image:: images/portal_device_recipe.png
 
 #. Build the portal's structure as shown.
   
@@ -29,5 +29,5 @@ Requirements
 
    * 1x Portal Device (place anywhere on the portal's rim)
 
-.. image:: images/portal_device_structure.png
-   :height: 360
+   .. image:: images/portal_device_structure.png
+      :height: 360
