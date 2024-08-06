@@ -346,43 +346,43 @@ Entities: :ref:`Hound<entity-hound>`, :ref:`Howler<entity-howler>`, :ref:`Spooky
 
 Evolutions:
 
-* Necromancer
+* **Necromancer**
 
   Mobs killed with this weapon spawn bowless skeletons that fight for you.
 
   Items: Greatswords
 
-* Vampire
+* **Vampire**
  
   Heal 5hp (2 and a half hearts) for every mob you kill
 
   Items: All Swords (not the Hammer)
 
-* Parry
+* **Parry**
 
   Attacking right after blocking damage from your shield deals up to 2.5x more damage
 
   Items: Shield
 
-* Bedrock Smasher
+* **Bedrock Smasher**
 
   Breaks bedrock. Doesn't drop the item.
 
   Items: Pickaxes
 
-* Demolition
+* **Demolition**
 
   Destroys dirt, sand snow and stones in a 4 block radius on the block you're looking at. Leaves ores intact, only 50% of blocks drop items.
 
   Cooldown: 7.5s
 
-* Jetpack
+* **Jetpack**
 
   Sneaking while flying boosts you in the air like when using fireworks. Boost lasts for 10 seconds, recharges while on ground.
 
   Items: Elytra
 
-* Elytra Chestplate
+* **Elytra Chestplate**
 
   Gives you the protection, toughness and knockback resistance of an unenchanted netherite chestplate.
 
