@@ -79,12 +79,12 @@ Sewer (2)
 
 Garden (1)
 """""""""""
-.. image:: images/backrooms.png
+.. image:: images/backrooms_garden.png
    :height: 360
 
 Hallway (0)
 """""""""""
-.. image:: images/backrooms_garden.png
+.. image:: images/backrooms.png
    :height: 360
 
 Red (-1)
