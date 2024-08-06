@@ -3,7 +3,7 @@ Items
 
 This section covers items (mostly weapons).
 
-These models are applied using /model <ID> on matching items and do not provide functionality or an advantage.
+These models are applied using /model <ID> on matching items and do not provide functionality, they are cosmetic only.
 
 Tools And Weapons
 ============
