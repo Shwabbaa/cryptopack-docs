@@ -9,7 +9,7 @@ The Backrooms is a new modded and completely original dimension. It features uni
 Instructions
 ----------------
 
-#. This experience is reccomended after you have maxed out netherite armour and a raid farm to fill your inventory with totems of undying.
+#. This experience is reccomended after you have maxed out netherite gear and a raid farm to fill your inventory with totems of undying.
 
 #. Craft a Backrooms Portal Device using the recipe below:
 
