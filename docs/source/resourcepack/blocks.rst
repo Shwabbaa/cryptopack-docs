@@ -1,9 +1,9 @@
 Blocks
 ***************************************
 
-Due to the inability to rename blocks, custom blocks cannot be made because they would overwrite the vanilla models.
+Custom block models cannot actually be made. Putting these items in an item frame and making the item frame invisible by right clicking with a wooden hoe provides the illusion of a custom block.
 
-However, blocks can be reimplemented as items sticking in an invisible item frame, with the limitation of the custom block model having to be bigger than the host (actual block), otherwise the real block would clip through
+These models are applied using /model <ID> on matching items and do not provide functionality, they are cosmetic only.
 
 Furniture
 ==========
