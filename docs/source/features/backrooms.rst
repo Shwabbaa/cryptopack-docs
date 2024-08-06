@@ -306,6 +306,14 @@ Spirit (-2)
 .. image:: images/backrooms_spirit.png
    :height: 360
 
+Evolutions:
+
+Rupture
+"""""""""""
+The next arrow you shoot spawns an end crystal that doesn't break blocks.
+
+Cooldown: 15s
+
 Entities: :ref:`Bricked Up Wretch<entity-bricked-wretch>`, :ref:`Hog<entity-hog>`, :ref:`Buffed Goblin<entity-buffed-goblin>`,
 
 
