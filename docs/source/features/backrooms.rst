@@ -300,11 +300,45 @@ Red (-1)
 
 Entities: :ref:`Hound<entity-hound>`, :ref:`Howler<entity-howler>`, :ref:`Spooky Creeper<entity-spooky-creeper>`, :ref:`Slow Joe<entity-slow-joe>`, :ref:`Goblin<entity-goblin>`
 
+Necromancer
+"""""""""""
+Mobs killed with this weapon spawn bowless skeletons that fight for you.
+
+Items: Greatswords
+
+Vampire
+"""""""""""
+Heal 5hp (2 and a half hearts) for every mob you kill
+
+Items: All Swords (not the Hammer)
+
+Parry
+"""""""""""
+Attacking right after blocking damage from your shield deals up to 2.5x more damage
+
+Items: Shield
+
+Bedrock Smasher
+"""""""""""
+Breaks bedrock. Doesn't drop the item.
+
+Items: Pickaxes
+
+Demolition
+"""""""""""
+Destroys dirt, sand snow and stones in a 4 block radius on the block you're looking at. Leaves ores intact, only 50% of blocks drop items.
+
+Cooldown: 7.5s
+
+Items: Pickaxes
+
 .. _level-spirit:
 Spirit (-2)
 ^^^^^^^^^^^
 .. image:: images/backrooms_spirit.png
    :height: 360
+
+Entities: :ref:`Bricked Up Wretch<entity-bricked-wretch>`, :ref:`Hog<entity-hog>`, :ref:`Buffed Goblin<entity-buffed-goblin>`,
 
 Evolutions:
 
@@ -314,9 +348,44 @@ The next arrow you shoot spawns an end crystal that doesn't break blocks.
 
 Cooldown: 15s
 
-Entities: :ref:`Bricked Up Wretch<entity-bricked-wretch>`, :ref:`Hog<entity-hog>`, :ref:`Buffed Goblin<entity-buffed-goblin>`,
+Items: Bow, Crossbow
 
+Chaos
+"""""""""""
+Arrows you shoot have random potion effects.
 
+Items: Bow, Crossbow
 
+Poison Edge
+"""""""""""
+Attacking mobs gives them poison 2 for 5 seconds. Attacking players gives them poison 1 for 5 seconds.
 
+Items: All Swords (not the Hammer)
 
+Ground Pound
+"""""""""""
+Launch a ground pound that does 18-26 damage to nearby entities.
+
+Cooldown: 15s
+
+Items: Hammer
+
+Fireball
+"""""""""""
+Launch a fireball that doesn't break blocks.
+
+Cooldown: 15s
+
+Items: All Swords (not the Hammer)
+
+Deflect
+"""""""""""
+Take 60% less projectile damage. Enemies that attack you will be knocked back.
+
+Items: Chestplates
+
+Overshield
+"""""""""""
+Being undamaged for 7.5 seconds heals up to 5 absorption hearts.
+
+Items: Chestplates
