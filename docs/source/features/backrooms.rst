@@ -11,7 +11,7 @@ Instructions
 
 #. This experience is reccomended after you have maxed out netherite gear and a raid farm to fill your inventory with totems of undying.
 
-#. Craft a Backrooms Portal Device using the recipe below:
+#. Craft a :ref:`Portal Device<portal-device>` using the recipe below:
 
    .. image:: images/portal_device_recipe.png
 
@@ -27,7 +27,7 @@ Instructions
 
    * Water
 
-   * 1x Portal Device (place anywhere on the portal's rim)
+   * 1x :ref:`Portal Device<portal-device>` (place anywhere on the portal's rim)
 
    .. image:: images/portal_device_structure.png
       :height: 360
@@ -49,7 +49,7 @@ To prevent keepinventory PvP abuse, friendly fire is disabled in The Backrooms. 
 
 The first time you die in The Backrooms, you will keep your levels and inventory. The next time you die, you will drop everything!
 
-One way to recover your items is to use the :doc:`invis-cloak` which makes you undetectable to mobs as long as you don't have any other items in your inventory.
+One way to recover your items is to use the :ref:`Invisibillity Cloak<invis-cloak>` which makes you undetectable to mobs as long as you don't have any other items in your inventory.
 
 
 
