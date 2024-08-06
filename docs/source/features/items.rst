@@ -397,6 +397,7 @@ Wrench
 """"""""""""""
 Allows you to rotate and modify block states.
 
+.. _invis-cloak:
 Invisibillity Cloak
 """"""""""""""
 Makes you undetectable to mobs and completely invisible to players (they cannot see the chestplate).
