@@ -334,7 +334,14 @@ Jetpack
 """""""""""
 Sneaking while flying boosts you in the air like when using fireworks. Boost lasts for 10 seconds, recharges while on ground.
 
-Items: Pickaxes
+Items: Elytra
+
+Elytra Chestplate
+"""""""""""
+Gives you the protection, toughness and knockback resistance of an unenchanted netherite chestplate.
+
+Items: Elytra
+
 
 .. _level-spirit:
 Spirit (-2)
