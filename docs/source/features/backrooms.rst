@@ -49,6 +49,37 @@ The first time you die in The Backrooms, you will keep your levels and inventory
 
 One way to recover your items is to use the :ref:`Invisibillity Cloak<invis-cloak>` which makes you undetectable to mobs as long as you don't have any other items in your inventory.
 
+Entities
+--------------
+
+Each level has a set of unique mobs that attempt to kill you. They are designed to be challenging, so they will significantly more damage and have more health than normal mobs. 
+
+Entity stats sometimes change and may not be fully up to date with this page.
+
+Gasser
+""""""""""""""
+A cave spider that drops a harming II potion when killed. When the Gasser damages a player, it doesn't inflict poison.
+
+* Damage: 16.5
+
+* Health: 25
+
+Goblin
+""""""""""""""
+A baby zombie that runs fast. It starts with high armour, blocking 80% of damage. As the goblin runs around, it loses its defense. 
+
+Buffed goblins have the same stats as goblins, but they wear gold leggings and boots and take more distance to lose their defense.
+
+* Damage: 15
+
+* Health: 20
+
+Found in: 
+
+Goblin
+""""""""""""""
+
+
 Evolutions
 ----------------
 
@@ -56,42 +87,49 @@ Evolutions are CryptoCraft's version of enchantments. Items may only hold a maxi
 
 You can find evolution stones in chests around all floors of The Backrooms. Each floor has a set of unique evolutions that can spawn in the chests. 
 
-You'll need to craft the evolution stones into evolution cores, which require evolution crystals among other items. Use the recipe book to find the recipes.
+You'll need to craft the evolution stones into evolution cores, which require evolution crystals among other items. Use the recipe book to find the recipes. Apply the evolution cores to supported items via an anvil.
 
-Apply the evolution cores to supported items via an anvil.
+A list of evolutions can be found below with each level.
 
 Levels
 ----------------
 
 There are currently 6 levels in The Backrooms. They are listed here from highest to lowest. Backrooms levels have elevator structures that can take you up and down a floor.
 
+.. _level-dark
 Dark (3)
 """""""""""
 .. image:: images/backrooms_dark.png
    :height: 360
 
+
 (the brightness in the screenshot has been increased)
 
+.. _level-sewer
 Sewer (2)
 """""""""""
 .. image:: images/backrooms_sewer.png
    :height: 360
 
+.. _level-garden
 Garden (1)
 """""""""""
 .. image:: images/backrooms_garden.png
    :height: 360
 
+.. _level-hallway
 Hallway (0)
 """""""""""
 .. image:: images/backrooms.png
    :height: 360
 
+.. _level-red
 Red (-1)
 """""""""""
 .. image:: images/backrooms_red.png
    :height: 360
 
+.. _level-spirit
 Spirit (-2)
 """""""""""
 .. image:: images/backrooms_spirit.png
