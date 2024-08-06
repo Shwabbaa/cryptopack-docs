@@ -49,6 +49,17 @@ The first time you die in The Backrooms, you will keep your levels and inventory
 
 One way to recover your items is to use the :ref:`Invisibillity Cloak<invis-cloak>` which makes you undetectable to mobs as long as you don't have any other items in your inventory.
 
+Evolutions
+----------------
+
+Evolutions are CryptoCraft's version of enchantments. Items may only hold a maximum of 1 evolution at a time, applying another will overwrite the existing one.
+
+You can find evolution stones in chests around all floors of The Backrooms. Each floor has a set of unique evolutions that can spawn in the chests. 
+
+You'll need to craft the evolution stones into evolution cores, which require evolution crystals among other items. Use the recipe book to find the recipes.
+
+Apply the evolution cores to supported items via an anvil.
+
 Levels
 ----------------
 
