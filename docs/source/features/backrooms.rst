@@ -6,7 +6,7 @@ The Backrooms is a new modded and completely original dimension. It features uni
 .. image:: images/backrooms.png
    :height: 360
 
-Requirements
+Instructions
 ----------------
 
 #. This experience is reccomended after you have maxed out netherite armour and a raid farm to fill your inventory with totems of undying.
@@ -40,4 +40,16 @@ Requirements
 
    .. image:: images/portal_device_code_menu.png
       :height: 360
+
+#. Jump in the water to start your adventure!
+
+Gameplay
+----------------
+
+To prevent keepinventory PvP abuse, friendly fire is disabled in The Backrooms.
+
+The first time you die in The Backrooms, you will keep your levels and inventory. The next time you die, you will drop everything!
+
+
+
 
