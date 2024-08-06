@@ -39,7 +39,6 @@ Instructions
    This allows server members to explore The Backrooms seperately and not have to fight for loot, while still being able to collaborate and play with each other.
 
    .. image:: images/portal_device_code_menu.png
-      :height: 360
 
 #. Jump in the water to start your adventure!
 
