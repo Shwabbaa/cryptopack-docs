@@ -330,6 +330,10 @@ Destroys dirt, sand snow and stones in a 4 block radius on the block you're look
 
 Cooldown: 7.5s
 
+Jetpack
+"""""""""""
+Sneaking while flying boosts you in the air like when using fireworks. Boost lasts for 10 seconds, recharges while on ground.
+
 Items: Pickaxes
 
 .. _level-spirit:
@@ -338,7 +342,7 @@ Spirit (-2)
 .. image:: images/backrooms_spirit.png
    :height: 360
 
-Entities: :ref:`Bricked Up Wretch<entity-bricked-wretch>`, :ref:`Hog<entity-hog>`, :ref:`Buffed Goblin<entity-buffed-goblin>`,
+Entities: :ref:`Bricked Up Wretch<entity-bricked-wretch>`, :ref:`Hog<entity-hog>`, :ref:`Buffed Goblin<entity-buffed-goblin>`
 
 Evolutions:
 
