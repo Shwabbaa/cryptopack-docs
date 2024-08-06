@@ -50,6 +50,7 @@ To prevent keepinventory PvP abuse, friendly fire is disabled in The Backrooms.
 
 The first time you die in The Backrooms, you will keep your levels and inventory. The next time you die, you will drop everything!
 
+One way to recover your items is to use the :doc:`invis-cloak` which makes you undetectable to mobs as long as you don't have any other items in your inventory.
 
 
 
