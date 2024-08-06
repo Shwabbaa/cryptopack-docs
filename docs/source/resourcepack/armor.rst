@@ -1,6 +1,8 @@
 Armour
 ***************
 
+These models are applied using /model <ID> on matching items and do not provide functionality, they are cosmetic only.
+
 Hats
 ==========
 
@@ -10,7 +12,7 @@ Hats do not give any armor points, they are only for cosmetic value
 Angler Hat
 ~~~~~~~~~~~~~~~~
 * ID: "angler_hat"
-* Items: Angler Hat
+* Items: Carved Pumpkin
 
 Baphomet Mask
 ~~~~~~~~~~~~~~~~
