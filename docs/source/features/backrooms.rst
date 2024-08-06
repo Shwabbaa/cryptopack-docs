@@ -216,7 +216,7 @@ An unarmed skeleton which does absolutely nothing special and attacks the player
 
 * Health: 40
 
-Found in: :ref:`Garden<level-garden>`
+Found in: :ref:`Garden<level-garden>`, :ref:`Dark<level-dark>`
 
 Drops: Bone
 
@@ -264,6 +264,8 @@ Dark (3)
 .. image:: images/backrooms_dark.png
    :height: 360
 
+Entities: :ref:`Gasser<entity-gasser>`, :ref:`Howler<entity-howler>`, :ref:`Wretch<entity-wretch>`
+
 (the brightness in the screenshot has been increased)
 
 .. _level-sewer
@@ -272,11 +274,15 @@ Sewer (2)
 .. image:: images/backrooms_sewer.png
    :height: 360
 
+Entities: :ref:`Mite<entity-mite>`, :ref:`Infested Wretch<entity-infested-wretch>`, :ref:`Lurker<entity-lurker>`
+
 .. _level-garden
 Garden (1)
 ^^^^^^^^^^^
 .. image:: images/backrooms_garden.png
    :height: 360
+
+Entities: :ref:`Wretch<entity-wretch>`
 
 .. _level-hallway
 Hallway (0)
@@ -284,17 +290,24 @@ Hallway (0)
 .. image:: images/backrooms.png
    :height: 360
 
+Entities: :ref:`Hound<entity-hound>`, :ref:`Howler<entity-howler>`, :ref:`Smiler<entity-smiler>`
+
 .. _level-red
 Red (-1)
 ^^^^^^^^^^^
 .. image:: images/backrooms_red.png
    :height: 360
 
+Entities: :ref:`Hound<entity-hound>`, :ref:`Howler<entity-howler>`, :ref:`Spooky Creeper<entity-spooky-creeper>`, :ref:`Slow Joe<entity-slow-joe>`, :ref:`Goblin<entity-goblin>`
+
 .. _level-spirit
 Spirit (-2)
 ^^^^^^^^^^^
 .. image:: images/backrooms_spirit.png
    :height: 360
+
+Entities: :ref:`Bricked Up Wretch<entity-bricked-wretch>`, :ref:`Hog<entity-hog>`, :ref:`Buffed Goblin<entity-buffed-goblin>`,
+
 
 
 
