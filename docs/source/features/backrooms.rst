@@ -9,7 +9,7 @@ Instructions
 
 #. This experience is reccomended after you have maxed out netherite gear and a raid farm to fill your inventory with totems of undying.
 
-#. Craft a :ref:`Portal Device<portal-device>` using the recipe below:
+#. Craft a Portal Device using the recipe below:
 
    .. image:: images/portal_device_recipe.png
 
@@ -25,7 +25,7 @@ Instructions
 
    * Water
 
-   * 1x :ref:`Portal Device<portal-device>` (place anywhere on the portal's rim)
+   * 1x Portal Device (place anywhere on the portal's rim)
 
    .. image:: images/portal_device_structure.png
       :height: 360
