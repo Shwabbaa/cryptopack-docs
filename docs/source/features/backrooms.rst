@@ -6,6 +6,7 @@ The Backrooms is a new modded and completely original dimension. It features uni
 .. image:: images/backrooms.png
    :height: 360
 
+.. _portal-device-instructions:
 Instructions
 ----------------
 
