@@ -46,7 +46,7 @@ Instructions
 Gameplay
 ----------------
 
-To prevent keepinventory PvP abuse, friendly fire is disabled in The Backrooms.
+To prevent keepinventory PvP abuse, friendly fire is disabled in The Backrooms. Fall damage is also disabled.
 
 The first time you die in The Backrooms, you will keep your levels and inventory. The next time you die, you will drop everything!
 
