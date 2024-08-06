@@ -32,7 +32,7 @@ Instructions
 
 #. Configure the portal device by right clicking it.
 
-   Portal devices that have the same code will point to a new destination.
+   Portal devices that have the same code will point to the same destination.
 
    This allows server members to explore The Backrooms seperately and not have to fight for loot, while still being able to collaborate and play with each other.
 
