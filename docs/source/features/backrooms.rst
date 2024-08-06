@@ -292,6 +292,50 @@ Hallway (0)
 
 Entities: :ref:`Hound<entity-hound>`, :ref:`Howler<entity-howler>`, :ref:`Smiler<entity-smiler>`
 
+Evolutions:
+
+Lightning
+"""""""""""
+The next entity you hit gets struck by lightning. Deal 3x extra damage to entities and 2x damage to players.
+
+Items: Hammer
+
+Dash
+"""""""""""
+Holding the weapon for a few seconds grants you speed 2.
+
+Items: Katana
+
+Sniper
+"""""""""""
+Shot arrows travel instantly to your crosshair target without gravity drop/falloff.
+
+Items: Bow, Crossbow
+
+Cooldown Cutdown
+"""""""""""
+Increases attack speed by 40%
+
+Items: All Swords (except Hammers and Greatswords)
+
+Paledon
+"""""""""""
+Standing still makes you take less knockback and damage.
+
+Items: Hammer
+
+Sprint
+"""""""""""
+Continously running will give you a speed boost.
+
+Items: Leggings
+
+NoFall
+"""""""""""
+Take no fall or elytra wall damage.
+
+Items: Leggings
+
 .. _level-red:
 Red (-1)
 ^^^^^^^^^^^
@@ -300,47 +344,49 @@ Red (-1)
 
 Entities: :ref:`Hound<entity-hound>`, :ref:`Howler<entity-howler>`, :ref:`Spooky Creeper<entity-spooky-creeper>`, :ref:`Slow Joe<entity-slow-joe>`, :ref:`Goblin<entity-goblin>`
 
-Necromancer
-"""""""""""
-Mobs killed with this weapon spawn bowless skeletons that fight for you.
+Evolutions:
 
-Items: Greatswords
+* Necromancer
 
-Vampire
-"""""""""""
-Heal 5hp (2 and a half hearts) for every mob you kill
+  Mobs killed with this weapon spawn bowless skeletons that fight for you.
 
-Items: All Swords (not the Hammer)
+  Items: Greatswords
 
-Parry
-"""""""""""
-Attacking right after blocking damage from your shield deals up to 2.5x more damage
+* Vampire
+ 
+  Heal 5hp (2 and a half hearts) for every mob you kill
 
-Items: Shield
+  Items: All Swords (not the Hammer)
 
-Bedrock Smasher
-"""""""""""
-Breaks bedrock. Doesn't drop the item.
+* Parry
 
-Items: Pickaxes
+  Attacking right after blocking damage from your shield deals up to 2.5x more damage
 
-Demolition
-"""""""""""
-Destroys dirt, sand snow and stones in a 4 block radius on the block you're looking at. Leaves ores intact, only 50% of blocks drop items.
+  Items: Shield
 
-Cooldown: 7.5s
+* Bedrock Smasher
 
-Jetpack
-"""""""""""
-Sneaking while flying boosts you in the air like when using fireworks. Boost lasts for 10 seconds, recharges while on ground.
+  Breaks bedrock. Doesn't drop the item.
 
-Items: Elytra
+  Items: Pickaxes
 
-Elytra Chestplate
-"""""""""""
-Gives you the protection, toughness and knockback resistance of an unenchanted netherite chestplate.
+* Demolition
 
-Items: Elytra
+  Destroys dirt, sand snow and stones in a 4 block radius on the block you're looking at. Leaves ores intact, only 50% of blocks drop items.
+
+  Cooldown: 7.5s
+
+* Jetpack
+
+  Sneaking while flying boosts you in the air like when using fireworks. Boost lasts for 10 seconds, recharges while on ground.
+
+  Items: Elytra
+
+* Elytra Chestplate
+
+  Gives you the protection, toughness and knockback resistance of an unenchanted netherite chestplate.
+
+  Items: Elytra
 
 
 .. _level-spirit:
