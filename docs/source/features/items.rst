@@ -294,7 +294,7 @@ Items related to :doc:`backrooms`
 
 Portal Device
 """"""""""""""
-This item allows you to enter the backrooms. You need to build a special portal structure in order to get this to work. More information can be found at :doc:`backrooms`
+This item allows you to enter the backrooms. You need to build a special portal structure in order to get this to work. Find out how to build the portal structure :ref:`here<portal-device-instructions>`
 
 .. _cat-bazooka:
 Cat Bazooka
