@@ -70,6 +70,8 @@ Dark (3)
 .. image:: images/backrooms_dark.png
    :height: 360
 
+(the brightness in the screenshot has been increased)
+
 Sewer (2)
 """""""""""
 .. image:: images/backrooms_sewer.png
