@@ -3,9 +3,6 @@ The Backrooms
 
 The Backrooms is a new modded and completely original dimension. It features unique challenging mobs to fight but also huge rewards in terms of item evolutions to upgrade your gear.
 
-.. image:: images/backrooms.png
-   :height: 360
-
 .. _portal-device-instructions:
 Instructions
 ----------------
@@ -51,6 +48,42 @@ To prevent keepinventory PvP abuse, friendly fire is disabled in The Backrooms. 
 The first time you die in The Backrooms, you will keep your levels and inventory. The next time you die, you will drop everything!
 
 One way to recover your items is to use the :ref:`Invisibillity Cloak<invis-cloak>` which makes you undetectable to mobs as long as you don't have any other items in your inventory.
+
+Levels
+----------------
+
+There are currently 6 levels in The Backrooms. They are listed here from highest to lowest. Backrooms levels have elevator structures that can take you up and down a floor.
+
+Dark (3)
+"""""""""""
+.. image:: images/backrooms_dark.png
+   :height: 360
+
+Sewer (2)
+"""""""""""
+.. image:: images/backrooms_sewer.png
+   :height: 360
+
+Garden (1)
+"""""""""""
+.. image:: images/backrooms.png
+   :height: 360
+
+Hallway (0)
+"""""""""""
+.. image:: images/backrooms_garden.png
+   :height: 360
+
+Red (-1)
+"""""""""""
+.. image:: images/backrooms_red.png
+   :height: 360
+
+Spirit (-2)
+"""""""""""
+.. image:: images/backrooms_spirit.png
+   :height: 360
+
 
 
 
