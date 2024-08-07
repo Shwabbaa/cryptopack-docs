@@ -29,3 +29,4 @@ sphinx:
 formats:
   - epub
   - pdf
+  - htmlzip
