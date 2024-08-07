@@ -3,6 +3,12 @@ Features
 
 This page lists all the custom features CryptoCraft has to offer
 
+.. toctree::
+  :maxdepth: 1
+  items
+  spirit
+  backrooms
+
 Overview
 --------
 * New custom dimension called :doc:`backrooms`.
@@ -28,9 +34,3 @@ Overview
 * Anvil too expensive limit removed
 * You can also use leather instead of rabbit hide to craft a bundle
 
-Contents
---------
-.. toctree::
-  items
-  spirit
-  backrooms
