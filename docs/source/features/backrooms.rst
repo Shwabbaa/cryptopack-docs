@@ -287,6 +287,8 @@ Evolutions:
 
   * Cooldown: 7.5s
 
+  * Items: Pickaxes
+
 .. evolution-jetpack:
 * **Jetpack**
 
