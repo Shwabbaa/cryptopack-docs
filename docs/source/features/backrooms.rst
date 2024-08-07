@@ -83,6 +83,54 @@ Sewer (2)
 
 Entities: :ref:`Mite<entity-mite>`, :ref:`Infested Wretch<entity-infested-wretch>`, :ref:`Lurker<entity-lurker>`
 
+Evolutions:
+
+.. evolution-step:
+* **Step**
+
+  * Increases your step height to 1.5 blocks.
+
+  * Items: Boots
+
+.. evolution-telekinesis:
+* **Telekinesis**
+
+  * Block drops go straight into your inventory.
+
+  * +0.5 entity reach and +1.5 block reach.
+
+  * Items: Helmet
+
+.. evolution-razor:
+* **Razor**
+
+  * Flying by mobs damages and knocks them back. The closer you are to hitting the center of the mob, the more damage the entity recieves.
+
+  * Items: Elytra
+
+.. evolution-super-unbreaking:
+* **Super Unbreaking**
+
+  * While wearing this helmet, none of your items lose durabillity when used (including the helmet itself.)
+
+  * Items: Helmet
+
+.. evolution-flingshot:
+* **Flingshot**
+
+  * You ride the first arrow you shoot.
+
+  * Cooldown: 10s after landing
+
+  * Items: Bow, Crossbow
+
+.. evolution-drill:
+* **Drill**
+
+  * Increase block break speed by 2x.
+
+  * Items: Any Tool, Shears
+
 .. _level-garden:
 Garden (1)
 ^^^^^^^^^^^
@@ -90,6 +138,50 @@ Garden (1)
    :height: 360
 
 Entities: :ref:`Wretch<entity-wretch>`
+
+Evolutions:
+
+.. evolution-very-serious-evolution:
+* **Very Serious Evolution**
+
+  * Be able to unstrip logs.
+
+  * Items: Axes
+
+.. evolution-zen-force:
+* **Zen Force**
+
+  * Holding this weapon while undamaged for 2.5 seconds will start healing you.
+
+  * Items: Katana
+
+.. evolution-tree-feller:
+* **Tree Feller**
+
+  * Breaking a log on a tree will break all connected logs. (Toggleable)
+
+  * Items: Axes
+
+.. evolution-master-baiter:
+* **Master Baiter**
+
+  * Have a 33% chance of catching treasure.
+
+  * Items: Fishing Rod
+
+.. evolution-photosynthesis:
+* **Photosynthesis**
+
+  * Being exposed to sunlight or block light (weaker) will heal and feed you.
+
+  * Items: Helmet
+
+.. evolution-regrowth:
+* **Regrowth**
+
+  * You regenerate health from any source (including by eating) twice as fast and therefore twice as much.
+
+  * Items: Chestplate
 
 .. _level-hallway:
 Hallway (0)
@@ -101,42 +193,49 @@ Entities: :ref:`Hound<entity-hound>`, :ref:`Howler<entity-howler>`, :ref:`Smiler
 
 Evolutions:
 
+.. evolution-lightning:
 * **Lightning**
 
   * The next entity you hit gets struck by lightning. Deal 3x extra damage to entities and 2x damage to players.
 
   * Items: Hammer
 
+.. evolution-dash:
 * **Dash**
 
   * Holding the weapon for a few seconds grants you speed 2.
 
   * Items: Katana
 
+.. evolution-sniper:
 * **Sniper**
 
   * Shot arrows travel instantly to your crosshair target without gravity drop/falloff.
 
   * Items: Bow, Crossbow
 
+.. evolution-cooldown-cut-down:
 * **Cooldown Cut down**
 
   * Increases attack speed by 40%
 
   * Items: All Swords (except Hammers and Greatswords)
 
+.. evolution-paledon:
 * **Paledon**
 
   * Standing still makes you take less knockback and damage.
 
   * Items: Hammer
 
+.. evolution-sprint:
 * **Sprint**
 
   * Continously running will give you a speed boost.
 
   * Items: Leggings
 
+.. evolution-nofall:
 * **NoFall**
 
   * Take no fall or elytra wall damage.
@@ -153,36 +252,42 @@ Entities: :ref:`Hound<entity-hound>`, :ref:`Howler<entity-howler>`, :ref:`Spooky
 
 Evolutions:
 
+.. evolution-necromancer:
 * **Necromancer**
 
   * Mobs killed with this weapon spawn bowless skeletons that fight for you.
 
   * Items: Greatswords
 
+.. evolution-vampire:
 * **Vampire**
  
   * Heal 5hp (2 and a half hearts) for every mob you kill
 
   * Items: All Swords (not the Hammer)
 
+.. evolution-parry:
 * **Parry**
 
   * Attacking right after blocking damage from your shield deals up to 2.5x more damage
 
   * Items: Shield
 
+.. evolution-bedrock-smasher:
 * **Bedrock Smasher**
 
   * Breaks bedrock. Doesn't drop the item.
 
   * Items: Pickaxes
 
+.. evolution-demolition:
 * **Demolition**
 
   * Destroys dirt, sand snow and stones in a 4 block radius on the block you're looking at. Leaves ores intact, only 50% of blocks drop items.
 
   * Cooldown: 7.5s
 
+.. evolution-jetpack:
 * **Jetpack**
 
   * Sneaking while flying boosts you in the air like when using fireworks. Boost lasts for 10 seconds, recharges while on ground.
@@ -206,6 +311,7 @@ Entities: :ref:`Bricked Up Wretch<entity-bricked-wretch>`, :ref:`Hog<entity-hog>
 
 Evolutions:
 
+.. evolution-rupture:
 * **Rupture**
 
   * The next arrow you shoot spawns an end crystal that doesn't break blocks.
@@ -214,18 +320,21 @@ Evolutions:
 
   * Items: Bow, Crossbow
 
+.. evolution-chaos:
 * **Chaos**
 
   * Arrows you shoot have random potion effects.
 
   * Items: Bow, Crossbow
 
+.. evolution-poison-edge:
 * **Poison Edge**
 
   * Attacking mobs gives them poison 2 for 5 seconds. Attacking players gives them poison 1 for 5 seconds.
 
   * Items: All Swords (not the Hammer)
 
+.. evolution-ground-pound:
 * **Ground Pound**
 
   * Launch a ground pound that does 18-28 damage to nearby entities.
@@ -234,6 +343,7 @@ Evolutions:
 
   * Items: Hammer
 
+.. evolution-fireball:
 * **Fireball**
 
   * Launch a fireball that doesn't break blocks.
@@ -242,12 +352,14 @@ Evolutions:
 
   * Items: All Swords (not the Hammer)
 
+.. evolution-deflect:
 * **Deflect**
 
   * Take 60% less projectile damage. Enemies that attack you will be knocked back.
 
   * Items: Chestplates
 
+.. evolution-overshield:
 * **Overshield**
 
   * Being undamaged for 7.5 seconds heals up to 5 absorption hearts.
