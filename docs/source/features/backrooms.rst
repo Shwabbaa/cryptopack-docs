@@ -49,7 +49,10 @@ The first time you die in The Backrooms, you will keep your levels and inventory
 
 One way to recover your items is to use the :ref:`Invisibillity Cloak<invis-cloak>` which makes you undetectable to mobs as long as you don't have any other items in your inventory.
 
-To escape The Backrooms, you can use the :ref:`Level Break<level-break>`
+There are two ways to escape The Backrooms:
+
+#. You can use the :ref:`Level Break<level-break>`, a consumable item which can be rarely found by killing Backrooms mobs.
+#. You can find exit portals scattered throughout The Backrooms which look like circular water portals with grass below the water.
 
 Evolutions
 ----------------
