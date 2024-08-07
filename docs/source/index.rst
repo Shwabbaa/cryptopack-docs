@@ -12,6 +12,8 @@ Pages
 
 * :doc:`Install the Modpack <modpack>`
 
+Everything
+--------
 
 .. toctree::
 
