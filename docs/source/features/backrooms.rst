@@ -339,7 +339,7 @@ Evolutions:
 .. evolution-ground-pound:
 * **Ground Pound**
 
-  * Launch a ground pound that does 18-28 damage to nearby entities.
+  * Launch a ground pound that does 20-30 damage to nearby entities.
 
   * Cooldown: 15s
 
