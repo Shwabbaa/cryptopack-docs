@@ -4,10 +4,11 @@ Features
 This page lists all the custom features CryptoCraft has to offer
 
 .. toctree::
-  :maxdepth: 1
-  items
-  spirit
-  backrooms
+   :maxdepth: 2
+
+   items
+   spirit
+   backrooms
 
 Overview
 --------
