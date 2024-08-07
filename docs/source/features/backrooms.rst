@@ -52,7 +52,7 @@ One way to recover your items is to use the :ref:`Invisibillity Cloak<invis-cloa
 There are two ways to escape The Backrooms:
 
 #. You can use the :ref:`Level Break<level-break>`, a consumable item which can be rarely found by killing Backrooms mobs.
-#. You can find exit portals scattered throughout The Backrooms which look like circular water portals with grass below the water.
+#. You can find exit portals scattered throughout The Backrooms which look like the portals used to enter The Backrooms, with grass below the water.
 
 Evolutions
 ----------------
