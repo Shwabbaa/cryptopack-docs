@@ -119,7 +119,7 @@ Evolutions:
 
   * Items: Bow, Crossbow
 
-* **Cooldown Cutdown**
+* **Cooldown Cut down**
 
   * Increases attack speed by 40%
 
@@ -155,45 +155,45 @@ Evolutions:
 
 * **Necromancer**
 
-  Mobs killed with this weapon spawn bowless skeletons that fight for you.
+  * Mobs killed with this weapon spawn bowless skeletons that fight for you.
 
-  Items: Greatswords
+  * Items: Greatswords
 
 * **Vampire**
  
-  Heal 5hp (2 and a half hearts) for every mob you kill
+  * Heal 5hp (2 and a half hearts) for every mob you kill
 
-  Items: All Swords (not the Hammer)
+  * Items: All Swords (not the Hammer)
 
 * **Parry**
 
-  Attacking right after blocking damage from your shield deals up to 2.5x more damage
+  * Attacking right after blocking damage from your shield deals up to 2.5x more damage
 
-  Items: Shield
+  * Items: Shield
 
 * **Bedrock Smasher**
 
-  Breaks bedrock. Doesn't drop the item.
+  * Breaks bedrock. Doesn't drop the item.
 
-  Items: Pickaxes
+  * Items: Pickaxes
 
 * **Demolition**
 
-  Destroys dirt, sand snow and stones in a 4 block radius on the block you're looking at. Leaves ores intact, only 50% of blocks drop items.
+  * Destroys dirt, sand snow and stones in a 4 block radius on the block you're looking at. Leaves ores intact, only 50% of blocks drop items.
 
-  Cooldown: 7.5s
+  * Cooldown: 7.5s
 
 * **Jetpack**
 
-  Sneaking while flying boosts you in the air like when using fireworks. Boost lasts for 10 seconds, recharges while on ground.
+  * Sneaking while flying boosts you in the air like when using fireworks. Boost lasts for 10 seconds, recharges while on ground.
 
-  Items: Elytra
+  * Items: Elytra
 
 * **Elytra Chestplate**
 
-  Gives you the protection, toughness and knockback resistance of an unenchanted netherite chestplate.
+  * Gives you the protection, toughness and knockback resistance of an unenchanted netherite chestplate.
 
-  Items: Elytra
+  * Items: Elytra
 
 
 .. _level-spirit:
@@ -208,51 +208,51 @@ Evolutions:
 
 * **Rupture**
 
-  The next arrow you shoot spawns an end crystal that doesn't break blocks.
+  * The next arrow you shoot spawns an end crystal that doesn't break blocks.
 
-  Cooldown: 15s
+  * Cooldown: 15s
 
-  Items: Bow, Crossbow
+  * Items: Bow, Crossbow
 
 * **Chaos**
 
-  Arrows you shoot have random potion effects.
+  * Arrows you shoot have random potion effects.
 
-  Items: Bow, Crossbow
+  * Items: Bow, Crossbow
 
 * **Poison Edge**
 
-  Attacking mobs gives them poison 2 for 5 seconds. Attacking players gives them poison 1 for 5 seconds.
+  * Attacking mobs gives them poison 2 for 5 seconds. Attacking players gives them poison 1 for 5 seconds.
 
-  Items: All Swords (not the Hammer)
+  * Items: All Swords (not the Hammer)
 
 * **Ground Pound**
 
-  Launch a ground pound that does 18-26 damage to nearby entities.
+  * Launch a ground pound that does 18-28 damage to nearby entities.
 
-  Cooldown: 15s
+  * Cooldown: 15s
 
-  Items: Hammer
+  * Items: Hammer
 
 * **Fireball**
 
-  Launch a fireball that doesn't break blocks.
+  * Launch a fireball that doesn't break blocks.
 
-  Cooldown: 15s
+  * Cooldown: 15s
 
-  Items: All Swords (not the Hammer)
+  * Items: All Swords (not the Hammer)
 
 * **Deflect**
 
-  Take 60% less projectile damage. Enemies that attack you will be knocked back.
+  * Take 60% less projectile damage. Enemies that attack you will be knocked back.
 
-  Items: Chestplates
+  * Items: Chestplates
 
 * **Overshield**
 
-  Being undamaged for 7.5 seconds heals up to 5 absorption hearts.
+  * Being undamaged for 7.5 seconds heals up to 5 absorption hearts.
 
-  Items: Chestplates
+  * Items: Chestplates
 
 Entities
 --------------
