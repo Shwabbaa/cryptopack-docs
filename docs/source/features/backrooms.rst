@@ -294,47 +294,47 @@ Entities: :ref:`Hound<entity-hound>`, :ref:`Howler<entity-howler>`, :ref:`Smiler
 
 Evolutions:
 
-Lightning
-"""""""""""
-The next entity you hit gets struck by lightning. Deal 3x extra damage to entities and 2x damage to players.
+* **Lightning**
 
-Items: Hammer
+  * The next entity you hit gets struck by lightning. Deal 3x extra damage to entities and 2x damage to players.
 
-Dash
-"""""""""""
-Holding the weapon for a few seconds grants you speed 2.
+  * Items: Hammer
 
-Items: Katana
+* **Dash**
 
-Sniper
-"""""""""""
-Shot arrows travel instantly to your crosshair target without gravity drop/falloff.
+  * Holding the weapon for a few seconds grants you speed 2.
 
-Items: Bow, Crossbow
+  * Items: Katana
 
-Cooldown Cutdown
-"""""""""""
-Increases attack speed by 40%
+* **Sniper**
 
-Items: All Swords (except Hammers and Greatswords)
+  * Shot arrows travel instantly to your crosshair target without gravity drop/falloff.
 
-Paledon
-"""""""""""
-Standing still makes you take less knockback and damage.
+  * Items: Bow, Crossbow
 
-Items: Hammer
+* **Cooldown Cutdown**
 
-Sprint
-"""""""""""
-Continously running will give you a speed boost.
+  * Increases attack speed by 40%
 
-Items: Leggings
+  * Items: All Swords (except Hammers and Greatswords)
 
-NoFall
-"""""""""""
-Take no fall or elytra wall damage.
+* **Paledon**
 
-Items: Leggings
+  * Standing still makes you take less knockback and damage.
+
+  * Items: Hammer
+
+* **Sprint**
+
+  * Continously running will give you a speed boost.
+
+  * Items: Leggings
+
+* **NoFall**
+
+  * Take no fall or elytra wall damage.
+
+  * Items: Leggings
 
 .. _level-red:
 Red (-1)
@@ -399,50 +399,50 @@ Entities: :ref:`Bricked Up Wretch<entity-bricked-wretch>`, :ref:`Hog<entity-hog>
 
 Evolutions:
 
-Rupture
-"""""""""""
-The next arrow you shoot spawns an end crystal that doesn't break blocks.
+* **Rupture**
 
-Cooldown: 15s
+  The next arrow you shoot spawns an end crystal that doesn't break blocks.
 
-Items: Bow, Crossbow
+  Cooldown: 15s
 
-Chaos
-"""""""""""
-Arrows you shoot have random potion effects.
+  Items: Bow, Crossbow
 
-Items: Bow, Crossbow
+* **Chaos**
 
-Poison Edge
-"""""""""""
-Attacking mobs gives them poison 2 for 5 seconds. Attacking players gives them poison 1 for 5 seconds.
+  Arrows you shoot have random potion effects.
 
-Items: All Swords (not the Hammer)
+  Items: Bow, Crossbow
 
-Ground Pound
-"""""""""""
-Launch a ground pound that does 18-26 damage to nearby entities.
+* **Poison Edge**
 
-Cooldown: 15s
+  Attacking mobs gives them poison 2 for 5 seconds. Attacking players gives them poison 1 for 5 seconds.
 
-Items: Hammer
+  Items: All Swords (not the Hammer)
 
-Fireball
-"""""""""""
-Launch a fireball that doesn't break blocks.
+* **Ground Pound**
 
-Cooldown: 15s
+  Launch a ground pound that does 18-26 damage to nearby entities.
 
-Items: All Swords (not the Hammer)
+  Cooldown: 15s
 
-Deflect
-"""""""""""
-Take 60% less projectile damage. Enemies that attack you will be knocked back.
+  Items: Hammer
 
-Items: Chestplates
+* **Fireball**
 
-Overshield
-"""""""""""
-Being undamaged for 7.5 seconds heals up to 5 absorption hearts.
+  Launch a fireball that doesn't break blocks.
 
-Items: Chestplates
+  Cooldown: 15s
+
+  Items: All Swords (not the Hammer)
+
+* **Deflect**
+
+  Take 60% less projectile damage. Enemies that attack you will be knocked back.
+
+  Items: Chestplates
+
+* **Overshield**
+
+  Being undamaged for 7.5 seconds heals up to 5 absorption hearts.
+
+  Items: Chestplates
