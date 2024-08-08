@@ -137,7 +137,7 @@ Evolutions:
 
   * Cooldown: 5s
 
-  * Items: Leggings
+  * Items: All Swords, Hammer
 
 .. _level-sewer:
 Sewer (2)
