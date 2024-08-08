@@ -81,6 +81,36 @@ Entities: :ref:`Gasser<entity-gasser>`, :ref:`Howler<entity-howler>`, :ref:`Wret
 
 (the brightness in the screenshot has been increased)
 
+Evolutions:
+
+.. evolution-chemical-warfare:
+* **Chemical Warfare**
+
+  * Shooting tipped arrows spawns a lingering effect where the arrows land.
+
+  * Items: Crossbow
+
+.. evolution-bounty:
+* **Bounty**
+
+  * Have a 5% chance to 15x ore drops.
+
+  * Items: Pickaxes
+
+* **Super Multishot**
+
+  * Shoots more projectiles. Stacks with regular multishot.
+
+  * Without Multishot Enchantment: 
+    * Arrows: 5
+    * Fireworks: 3
+  * With Multishot Enchantment:
+    * Arrows: 9
+    * Fireworks: 5
+
+  * Items: Bow, Crossbow
+
+
 .. _level-sewer:
 Sewer (2)
 ^^^^^^^^^^^
