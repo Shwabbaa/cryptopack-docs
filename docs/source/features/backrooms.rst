@@ -97,19 +97,47 @@ Evolutions:
 
   * Items: Pickaxes
 
+.. evolution-super-multishot:
 * **Super Multishot**
 
   * Shoots more projectiles. Stacks with regular multishot.
 
   * Without Multishot Enchantment: 
+
     * Arrows: 5
+
     * Fireworks: 3
+
   * With Multishot Enchantment:
+
     * Arrows: 9
+
     * Fireworks: 5
 
   * Items: Bow, Crossbow
 
+.. evolution-combo:
+* **Combo**
+
+  * Consecutive hits deal more damage, up to 2.4x damage.
+
+  * Items: All Swords (not the Hammer)
+
+.. evolution-ninja:
+* **Ninja**
+
+  * Other players and skulk sensors cannot hear your footsteps (the Warden still can).
+
+  * Items: Leggings
+
+.. evolution-backstab:
+* **Backstab**
+
+  * Deal 50 extra damage (or 75 if it is a critical hit) when attacking an entity from behind.
+
+  * Cooldown: 5s
+
+  * Items: Leggings
 
 .. _level-sewer:
 Sewer (2)
