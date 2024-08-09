@@ -78,6 +78,11 @@ Fent Needle
 * ID: "fent_needle"
 * Items: All Swords, Main Food Items, Totem of Undying
 
+Hammer
+------------------
+* ID: "hammer"
+* Items: All Swords and Pickaxes
+
 Hatchet
 ------------------
 * ID: "hatchet"
