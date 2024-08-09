@@ -126,7 +126,12 @@ Meteor Shovel
 Mjolnir
 ------------------
 * ID: "mjolnir"
-* Items: Mace, All Swords (includes the hammer!)
+* Items: Mace, All Swords
+
+Mounted Blades of Chaos
+------------------
+* ID: "mounted_blades_of_chaos"
+* Items: All Swords
 
 Pink Lightsaber
 ------------------
@@ -226,6 +231,11 @@ KFC
 ------------------
 * ID: "kfc"
 * Items: Main Food Items
+
+Tek Knight's Cale
+------------------
+* ID: "tek_knights_cake"
+* Items: Main Food Items, Cake
 
 Vegemite
 ------------------
