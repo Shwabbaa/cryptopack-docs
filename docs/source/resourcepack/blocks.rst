@@ -13,6 +13,11 @@ Bird House
 * ID: "bird_house"
 * Items: Oak Planks
 
+Cooking Pot
+~~~~~~~~~~
+* ID: "cooking_pot"
+* Items: Cauldron
+
 Trollish Painting
 ~~~~~~~~~~
 * ID: "trollish_painting"
