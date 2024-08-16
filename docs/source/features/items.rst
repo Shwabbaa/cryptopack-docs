@@ -404,4 +404,8 @@ Invisibillity Cloak
 Makes you undetectable to mobs and completely invisible to players (they cannot see the chestplate).
 Only works when you have no other items in your inventory (intended for item recovery purposes).
 
+Horse Whistle
+""""""""""""""
+Right click on an existing horse to bind it. Right click again to teleport the horse to where you are currently looking. Costs 15 Spirit to teleport/spawn a horse. Cannot be used after the horse's death. Works on "horse" variants like donkeys, llamas etc
+
 
