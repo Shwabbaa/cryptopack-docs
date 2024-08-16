@@ -81,7 +81,7 @@ Fent Needle
 Hammer
 ------------------
 * ID: "hammer"
-* Items: All Swords and Pickaxes
+* Items: All Swords, Pickaxes and Axes, Mace
 
 Hatchet
 ------------------
