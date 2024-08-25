@@ -8,6 +8,11 @@ These models are applied using /model <ID> on matching items and do not provide 
 Furniture
 ==========
 
+Athena Statue
+~~~~~~~~~~
+* ID: "athena_statue"
+* Items: Quartz Pillar
+
 Bird House
 ~~~~~~~~~~
 * ID: "bird_house"
