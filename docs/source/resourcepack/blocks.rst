@@ -23,6 +23,11 @@ Cooking Pot
 * ID: "cooking_pot"
 * Items: Cauldron
 
+Poker Table
+~~~~~~~~~~
+* ID: "poker_table"
+* Items: Paper
+
 Trollish Painting
 ~~~~~~~~~~
 * ID: "trollish_painting"
