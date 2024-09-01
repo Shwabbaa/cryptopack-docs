@@ -243,7 +243,7 @@ Evolutions:
 .. evolution-regrowth:
 * **Regrowth**
 
-  * You regenerate health from any source (including by eating) twice as fast and therefore twice as much.
+  * You regenerate health from any source (including by eating) 1.5x faster and therefore 1.5x as much.
 
   * Items: Chestplate
 
