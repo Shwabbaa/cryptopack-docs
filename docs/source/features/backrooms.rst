@@ -326,7 +326,8 @@ Evolutions:
 .. evolution-vampire:
 * **Vampire**
  
-  * Heal 5hp (2 and a half hearts) for every mob you kill
+  * Heal 4 hp (2 hearts) when you kill a mob
+  * Heal 10 hp (5 hearts) when you kill a player
 
   * Items: All Swords (not the Hammer)
 
