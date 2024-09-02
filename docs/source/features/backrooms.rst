@@ -119,7 +119,7 @@ Evolutions:
 .. evolution-combo:
 * **Combo**
 
-  * Consecutive hits deal more damage, up to 2.4x damage.
+  * Consecutive hits deal more damage, up to 2.2x damage.
 
   * Items: All Swords (except hammers or greatswords)
 
