@@ -121,7 +121,7 @@ Evolutions:
 
   * Consecutive hits deal more damage, up to 2.4x damage.
 
-  * Items: All Swords (not the Hammer)
+  * Items: All Swords (except hammers or greatswords)
 
 .. evolution-ninja:
 * **Ninja**
@@ -429,7 +429,7 @@ Evolutions:
 .. evolution-overshield:
 * **Overshield**
 
-  * Being undamaged for 7.5 seconds heals up to 5 absorption hearts.
+  * Being undamaged for 10 seconds heals up to 5 absorption hearts.
 
   * Items: Chestplates
 
