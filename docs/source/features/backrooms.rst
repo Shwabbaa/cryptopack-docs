@@ -297,7 +297,7 @@ Evolutions:
 
   * Continously running will give you a speed boost.
 
-  * Items: Leggings
+  * Items: Boots
 
 .. evolution-nofall:
 * **NoFall**
