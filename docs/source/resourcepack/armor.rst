@@ -57,7 +57,7 @@ Meteor Hat
 Nacho Sombero
 ~~~~~~~~~~~~~~~~
 * ID: "nacho_sombero"
-* Items: Carved Pumpkin, Cooked Porkchop, Steak, Golden Carrot
+* Items: Carved Pumpkin, Main Food Items
 
 Raised Cool Glasses
 ~~~~~~~~~~~~~~~~
