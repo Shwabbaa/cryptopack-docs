@@ -191,6 +191,11 @@ Meteor Shield
 * ID: "meteor_shield"
 * Items: Shield
 
+Spartan Guardian Shield
+------------------
+* ID: "spartan_guardian_shield"
+* Items: Shield
+
 Template Shield
 ------------------
 * ID: "template_shield"
