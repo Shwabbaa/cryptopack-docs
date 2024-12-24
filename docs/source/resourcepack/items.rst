@@ -263,6 +263,12 @@ You'll have to find them yourself using /model...
 Other Items
 ============
 
+Best Script
+------------------
+* ID: "best_script"
+* Items: Signs, Swords
+* Description: the bee movie so fucking cringe
+
 Black Kableeb
 ------------------
 * ID: "black_kableeb"
