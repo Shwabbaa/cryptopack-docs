@@ -198,9 +198,9 @@ Template Shield
 
 Food
 ============
-Due to the new model system, only some food items are supported for custom models.
+The 1.21.4 model system allows greater definitions of supported items. All items that are edible by holding right click are accepted.
 
-Main Food Items:
+Old Main Food Items:
 
 * Steak
 
