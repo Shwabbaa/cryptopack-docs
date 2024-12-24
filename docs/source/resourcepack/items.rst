@@ -98,6 +98,11 @@ Knife
 * ID: "knife"
 * Items: All Swords
 
+Laser Blade
+------------------
+* ID: "laser_blade"
+* Items: All Swords
+
 Leonidas Spear
 ------------------
 * ID: "leonidas_spear"
