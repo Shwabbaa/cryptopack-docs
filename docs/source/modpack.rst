@@ -9,7 +9,7 @@ Benefits
 * Shader support using Iris
 * Supports CIT custom armour models (if readded in the future)
 * Quality of life enhancements:
-  * Dynamic lighting
+  * Dynamic torch lighting
   * Controller support
   * 3D skin layers
   * Disables chat reporting when possible
