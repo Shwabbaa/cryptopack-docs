@@ -19,7 +19,7 @@ To view a list of models that supports the item you're holding, use the command 
 
 To reset the model of the item you're holding to the default model. use the command **/model reset**.
 
-Check out :doc:`getting_started` to learn how to install the resourcepack, as well as the required mods to use it.
+Check out :doc:`getting_started` to learn how to install the resourcepack.
 
 Resourcepack Elements
 --------
