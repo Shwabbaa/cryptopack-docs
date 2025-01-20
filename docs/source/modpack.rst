@@ -1,7 +1,20 @@
 Modpack
 ===================================
 
-This will cover how to install the modpack
+This will cover how to install the modpack.
+
+Benefits
+----------
+* Improved performance
+* Shader support using Iris
+* Supports CIT custom armour models (if readded in the future)
+* Quality of life enhancements:
+  * Dynamic lighting
+  * Controller support
+  * 3D skin layers
+  * Disables chat reporting when possible
+  * WorldEdit
+  * Open your singleplayer world for anyone to join
 
 Installation
 ----------
