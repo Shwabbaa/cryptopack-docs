@@ -15,7 +15,7 @@ Resource Pack
 
 Model Commands
 ------------
-* /model apply <model_id> - applies the model to the item in your hand. Find model ids in game with /model list or click on one of the listing pages below.
+* /model apply <model_id> - applies the model to the item in your hand.
 * /model reset - resets the model you're holding to the default
 * /model list - lists models you can use with the item you are currently holding
 * /model listall - lists all models
@@ -25,6 +25,7 @@ Check out :doc:`getting_started` to learn how to install the resourcepack.
 
 Resourcepack Elements
 --------
+Find model ids in game with /model list or click on one of the listing pages below.
 
 * :doc:`items`
 
