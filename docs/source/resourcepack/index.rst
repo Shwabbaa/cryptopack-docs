@@ -13,11 +13,13 @@ Resource Pack
 
 **CryptoCraft Resourcepack** is a custom resource pack built for the CryptoCraft server that allows for users to use custom models and textures on their items, as well as providing models and textures for custom items in the server.
 
-To change the model of the item you're holding to a specific model, use the command **/model apply <model_id>**.
-
-To view a list of models that supports the item you're holding, use the command **/model list**. To view a list of all models, use **/model listall**.
-
-To reset the model of the item you're holding to the default model. use the command **/model reset**.
+Model Commands
+------------
+* /model apply <model_id> - applies the model to the item in your hand. Find model ids in game with /model list or click on one of the listing pages below.
+* /model reset - resets the model you're holding to the default
+* /model list - lists models you can use with the item you are currently holding
+* /model listall - lists all models
+* /model - to view help / usage information.
 
 Check out :doc:`getting_started` to learn how to install the resourcepack.
 
