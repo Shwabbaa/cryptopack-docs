@@ -49,3 +49,12 @@ Dungeons and Taverns add "shrines", which are trial chambers that could either b
 .. image:: images/shrine.png
       :height: 360
 A level 6 shrine (the maximum level)
+
+Nether
+**********
+`Incendium <https://stardustlabs.miraheze.org/wiki/Incendium>`_ massively overhauls Nether gameplay.
+
+The datapack adds custom items, however in CryptoCraft they have been replaced with lootboxes that give you diamonds, enchantments and netherrite.
+
+Some Incendium structures are extremely difficult and should only be attempted with multiple people or with an inventory full of totems.
+
