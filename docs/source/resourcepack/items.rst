@@ -235,7 +235,7 @@ Coke Brick
 Nacho Sombero
 ------------------
 * ID: "nacho_sombero"
-* Items: Main Food Items, Carved Pumpkin
+* Items: Food Items, Helmets, Carved Pumpkin
 
 KFC
 ------------------
@@ -282,7 +282,7 @@ Best Script
 Black Kableeb
 ------------------
 * ID: "black_kableeb"
-* Items: Main Food Items, Carved Pumpkin, All Swords
+* Items: Food Items, Helmets, Carved Pumpkin, All Swords
 
 Do Not Approach
 ------------------
