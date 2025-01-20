@@ -7,32 +7,33 @@ Hats
 ==========
 
 Hats are remodelled pumpkin heads. The pumpkin overlay is removed from this resourcepack.
-Hats do not give any armor points, they are only for cosmetic value
+
+It is now possible to apply hat models to helmets, however they will show up as a fake glass block when worn on the head. All armour benefits and perks will still be applied.
 
 Angler Hat
 ~~~~~~~~~~~~~~~~
 * ID: "angler_hat"
-* Items: Carved Pumpkin
+* Items: Helmets, Carved Pumpkin
 
 Baphomet Mask
 ~~~~~~~~~~~~~~~~
 * ID: "baphomet_mask"
-* Items: Carved Pumpkin
+* Items: Helmets, Carved Pumpkin
 
 Cool Glasses
 ~~~~~~~~~~~~~~~~
 * ID: "cool_glasses"
-* Items: Carved Pumpkin
+* Items: Helmets, Carved Pumpkin
 
 Cool Red Hat
 ~~~~~~~~~~~~~~~~
 * ID: "cool_red_hat"
-* Items: Carved Pumpkin
+* Items: Helmets, Carved Pumpkin
 
 Electro's Mask
 ~~~~~~~~~~~~~~~~
 * ID: "electros_mask"
-* Items:  Carved Pumpkin
+* Items:  Helmets, Carved Pumpkin
 
 Freddy Fazbear Head
 ~~~~~~~~~~~~~~~~
@@ -42,22 +43,22 @@ Freddy Fazbear Head
 Arthur Morgan Gambler's Hat
 ~~~~~~~~~~~~~~~~
 * Pattern: "gamblers_hat"
-* Items:  Carved Pumpkin
+* Items:  Helmets, Carved Pumpkin
 
 Meta Quest 2
 ~~~~~~~~~~~~~~~~
 * ID: "meta_quest_2"
-* Items:  Carved Pumpkin
+* Items: Helmets, Carved Pumpkin
 
 Meteor Hat
 ~~~~~~~~~~~~~~~~
 * Pattern: "meteor"
-* Items:  Carved Pumpkin
+* Items:  Helmets, Carved Pumpkin
 
 Nacho Sombero
 ~~~~~~~~~~~~~~~~
 * ID: "nacho_sombero"
-* Items: Carved Pumpkin, Main Food Items
+* Items: Helmets, Carved Pumpkin, Food Items
 
 Raised Cool Glasses
 ~~~~~~~~~~~~~~~~
@@ -67,12 +68,12 @@ Raised Cool Glasses
 John Marston Ranch Hat
 ~~~~~~~~~~~~~~~~
 * ID: "ranch_hat"
-* Items: Carved Pumpkin
+* Items: Helmets, Carved Pumpkin
 
 Straw Hat
 ~~~~~~~~~~~~~~~~
 * ID: "straw_hat"
-* Items: Carved Pumpkin
+* Items: Helmets, Carved Pumpkin
 
 Armor sets
 ==========
