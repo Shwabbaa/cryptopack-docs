@@ -31,6 +31,12 @@ Trading with the cartographer villager inside once will unlock new trades that g
 
 The maps offered can point to Dungeons and Taverns structures or vanilla structures.  
 
+
 Trial Chambers
 ===========
-Dungeons and Taverns add "shrines", which are trial chambers that could either be extremely small with a few rooms to being 2-3x larger than regular trial chambers.
+Dungeons and Taverns add "shrines", which are trial chambers that could either be extremely small with a few rooms to being 2-3x larger than regular trial chambers. Larger shrines are much rarer to occur.
+
+.. image:: images/shrine.png
+      :height: 360
+A level 6 shrine (the maximum level)
+
