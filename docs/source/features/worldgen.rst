@@ -15,7 +15,22 @@ List of datapacks:
 
 * `Structory <https://stardustlabs.miraheze.org/wiki/Structory>`_ adds small structures to enhance the feel of the world.
 
-
 Overworld
 **********
-a
+The Overworld contains many new structures from multiple datapacks. Most structures only enhance visual quality and do not give good loot.
+
+Tavern
+===========
+
+.. image:: images/tavern.png
+      :height: 360
+
+These structures are the main way to obtain maps for other Dungeons and Taverns structures in the overworld.
+
+Trading with the cartographer villager inside once will unlock new trades that give you structure maps.
+
+The maps offered can point to Dungeons and Taverns structures or vanilla structures.  
+
+Trial Chambers
+===========
+Dungeons and Taverns add "shrines", which are trial chambers that could either be extremely small with a few rooms to being 2-3x larger than regular trial chambers.
