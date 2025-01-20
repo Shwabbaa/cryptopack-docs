@@ -23,7 +23,7 @@ Installation (old)
 
 That's it!
 
-Using commands to apply a custom model
+Using commands to apply a specific model
 ------------
 We will be creating a Meteor Client Sword.
 
@@ -31,7 +31,14 @@ We will be creating a Meteor Client Sword.
 
 * In the document: ' ID: "meteor_sword", Supported Items: Swords '
 
-* Hold a sword and type /model meteor_sword
+* Hold a sword and type /model apply meteor_sword
+
+Other useful commands
+------------
+* /model reset - resets the model you're holding to the default
+* /model list - lists models you can use with the item you are currently holding
+* /model listall - lists all models
+* /model - to view help / usage information.
 
 Uninstalling
 ------------
