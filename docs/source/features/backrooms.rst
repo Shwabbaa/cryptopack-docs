@@ -28,7 +28,7 @@ Instructions
    * 1x Portal Device (place anywhere on the portal's rim)
 
    .. image:: images/portal_device_structure.png
-      :height: 360
+      :width: 640
 
 #. Configure the portal device by right clicking it.
 
@@ -75,7 +75,7 @@ There are currently 6 levels in The Backrooms. They are listed here from highest
 Dark (3)
 ^^^^^^^^^^^
 .. image:: images/backrooms_dark.png
-   :height: 360
+   :width: 640
 
 Entities: :ref:`Gasser<entity-gasser>`, :ref:`Howler<entity-howler>`, :ref:`Wretch<entity-wretch>`
 
@@ -143,7 +143,7 @@ Evolutions:
 Sewer (2)
 ^^^^^^^^^^^
 .. image:: images/backrooms_sewer.png
-   :height: 360
+   :width: 640
 
 Entities: :ref:`Mite<entity-mite>`, :ref:`Infested Wretch<entity-infested-wretch>`, :ref:`Lurker<entity-lurker>`
 
@@ -199,7 +199,7 @@ Evolutions:
 Garden (1)
 ^^^^^^^^^^^
 .. image:: images/backrooms_garden.png
-   :height: 360
+   :width: 640
 
 Entities: :ref:`Wretch<entity-wretch>`
 
@@ -251,7 +251,7 @@ Evolutions:
 Hallway (0)
 ^^^^^^^^^^^
 .. image:: images/backrooms.png
-   :height: 360
+   :width: 640
 
 Entities: :ref:`Hound<entity-hound>`, :ref:`Howler<entity-howler>`, :ref:`Smiler<entity-smiler>`
 
@@ -310,7 +310,7 @@ Evolutions:
 Red (-1)
 ^^^^^^^^^^^
 .. image:: images/backrooms_red.png
-   :height: 360
+   :width: 640
 
 Entities: :ref:`Hound<entity-hound>`, :ref:`Howler<entity-howler>`, :ref:`Spooky Creeper<entity-spooky-creeper>`, :ref:`Slow Joe<entity-slow-joe>`, :ref:`Goblin<entity-goblin>`
 
@@ -372,7 +372,7 @@ Evolutions:
 Spirit (-2)
 ^^^^^^^^^^^
 .. image:: images/backrooms_spirit.png
-   :height: 360
+   :width: 640
 
 Entities: :ref:`Bricked Up Wretch<entity-bricked-wretch>`, :ref:`Hog<entity-hog>`, :ref:`Buffed Goblin<entity-buffed-goblin>`
 
