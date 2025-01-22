@@ -228,22 +228,21 @@ Custom weapons have different stats, as well as abilities and weaknesses
 
 Greatsword
 """"""""""""""
-Greatswords have more attack damage and lower attack speeds than axes. They also have significantly increased reach.
-Having an item in your offhand will also lower the attack speed of the weapon.
+This weapon was so OP it had to be nerfed 3 times. This final edition of the greatsword sees it doing significantly less damage at higher attack speeds.
 
-* Netherite Greatsword: 17.5 Damage, 0.55 Attack Speed, + 1 Reach
+* Netherite Greatsword: 12 Damage, 0.75 Attack Speed, + 1 Reach
 
-* Diamond Greatsword: 16.5 Damage, 0.5 Attack Speed, + 1 Reach
+* Diamond Greatsword: 11 Damage, 0.75 Attack Speed, + 1 Reach
 
-* Iron Greatsword: 15.5 Damage, 0.45 Attack Speed, + 1 Reach
+* Iron Greatsword: 11 Damage, 0.65 Attack Speed, + 1 Reach
 
-* Stone Greatsword: 14.5 Damage, 0.375 Attack Speed, + 1 Reach
+* Stone Greatsword: 11 Damage, 0.55 Attack Speed, + 1 Reach
 
-* Wooden/Golden Greatsword: 13.5 Damage, 0.3 Attack Speed, + 1 Reach
+* Wooden/Golden Greatsword: 9 Damage, 0.55 Attack Speed, + 1 Reach
 
 Hammer
 """"""""""""""
-Hammers have slightly lower attack speeds than axes.
+Hammers have slightly lower attack speeds than axes. They are now similar to greatswords, but have less reach and a faster attack speed.
 
 Getting a critical hit with this weapon will give the enemy slowness.
 
