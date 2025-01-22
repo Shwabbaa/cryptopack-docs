@@ -33,7 +33,7 @@ Tavern
 ===========
 
 .. image:: images/tavern.png
-      :height: 100%
+      :width: 800px
 
 These structures are the main way to obtain maps for other Dungeons and Taverns structures in the overworld.
 
@@ -47,7 +47,7 @@ Shrines
 Dungeons and Taverns add "shrines", which are trial chambers that could either be extremely small with a few rooms to being 2-3x larger than regular trial chambers. Larger shrines are much rarer to occur.
 
 .. image:: images/shrine.png
-      :height: 100%
+      :width: 800px
 A level 6 shrine (the maximum level)
 
 Nether
