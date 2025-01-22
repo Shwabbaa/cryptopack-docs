@@ -197,7 +197,8 @@ Sets off a firework display around the reader.
 
 Midget Tome
 """"""""""""""
-Makes the reader 1 block tall for 5 minutes. Dying or drinking milk will remove this effect.
+Makes the reader 1 block tall for 10 minutes. Dying or drinking milk will remove this effect.
+Players attacks will deal 2x damage to you, as compensation for a smaller hitbox.
 (40 Spirit)
 
 Hacker's Handbook
