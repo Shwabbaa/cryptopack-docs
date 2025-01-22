@@ -161,7 +161,7 @@ Evolutions:
 
   * Block drops go straight into your inventory.
 
-  * +0.5 entity reach and +1.5 block reach.
+  * +2 block reach. (doesn't impact entity reach)
 
   * Items: Helmet
 
@@ -262,7 +262,7 @@ Evolutions:
 
   * The next entity you hit gets struck by lightning. Deal 3x extra damage to entities and 2x damage to players.
 
-  * Items: Hammer
+  * Items: Greatswords and Hammers
 
 .. evolution-dash:
 * **Dash**
@@ -290,7 +290,7 @@ Evolutions:
 
   * Standing still makes you take less knockback and damage.
 
-  * Items: Hammer
+  * Items: Greatswords and Hammers
 
 .. evolution-sprint:
 * **Sprint**
@@ -321,7 +321,7 @@ Evolutions:
 
   * Mobs killed with this weapon spawn bowless skeletons that fight for you.
 
-  * Items: Greatswords
+  * Items: Greatswords and Hammers
 
 .. evolution-vampire:
 * **Vampire**
@@ -329,7 +329,7 @@ Evolutions:
   * Heal 4 hp (2 hearts) when you kill a mob
   * Heal 10 hp (5 hearts) when you kill a player
 
-  * Items: All Swords (not the Hammer)
+  * Items: All Swords
 
 .. evolution-parry:
 * **Parry**
@@ -399,7 +399,7 @@ Evolutions:
 
   * Attacking mobs gives them poison 2 for 5 seconds. Attacking players gives them poison 1 for 5 seconds.
 
-  * Items: All Swords (not the Hammer)
+  * Items: All Swords
 
 .. evolution-ground-pound:
 * **Ground Pound**
@@ -417,7 +417,7 @@ Evolutions:
 
   * Cooldown: 15s
 
-  * Items: All Swords (not the Hammer)
+  * Items: All Swords
 
 .. evolution-deflect:
 * **Deflect**
