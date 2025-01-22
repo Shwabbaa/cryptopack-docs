@@ -408,4 +408,155 @@ Horse Whistle
 """"""""""""""
 Right click on an existing horse to bind it. Right click again to teleport the horse to where you are currently looking. Costs 15 Spirit to teleport/spawn a horse. Cannot be used after the horse's death. Works on "horse" variants like donkeys, llamas etc
 
+.. _loot-boxes:
+Loot Boxes
+-----------
+
+Common Loot Box
+""""""""""""""
+Usually obtained from killing some Incendium nether mobs.
+
+Drops:
+
+* One rare resource from the following: (100%)
+
+   * 4-8 Netherite Scrap (50%)
+
+   * 6-8 Diamonds (50%)
+
+* One resource from the following: (100%)
+
+   * 3-6 Golden Apples (14.28%)
+
+   * 1 Netherite Upgrade Smithing Template (14.28%)
+
+   * 8-16 Experience Bottles (14.28%)
+
+   * 8-16 Golden Carrots (14.28%)
+
+   * 12-24 Gold Ingots (14.28%)
+
+   * 2-4 Gold Blocks (14.28%) 
+
+   * 2-4 Iron Blocks (14.28%)
+
+Rare Loot Box
+""""""""""""""
+Usually obtained from looting high-end Incendium structures
+
+Drops:
+
+* 4-8 Netherite Scrap (100%)
+
+* 6-8 Diamonds (100%)
+
+* One resource from the following: (100%)
+
+   * 1 Enchanted Golden Apple (12.5%)
+
+   * 5-10 Golden Apples (12.5%)
+
+   * 1-2 Netherite Upgrade Smithing Templates (12.5%)
+
+   * 16-32 Experience Bottles (12.5%)
+
+   * 16-32 Golden Carrots (12.5%)
+
+   * 16-32 Gold Ingots (12.5%)
+
+   * 3-5 Gold Blocks (12.5%)
+
+   * 3-5 Iron Blocks (12.5%)
+
+* One rare enchantment: (50%)
+
+   * Luck of The Sea 2 (3.33%)
+
+   * Wind Burst 2 (3.33%)
+
+   * Density 4 (3.33%)
+
+   * Soul Speed 2 (3.33%)
+
+   * Swift Sneak 2 (3.33%)
+
+   * Silk Touch (3.33%)
+
+   * Channeling (3.33%)
+
+   * Loyalty 2 (3.33%)
+
+   * Respiration 2 (3.33%)
+
+   * Aqua Affinity (3.33%)
+
+   * Lure 2 (3.33%)
+
+   * Impaling 4 (3.33%)
+
+   * Depth Strider 2 (3.33%)
+
+   * Feather Falling 3 (3.33%)
+
+   * Smite 4 (3.33%)
+
+Legendary Loot Box
+""""""""""""""
+Usually obtained from looting the Forbidden Castle (the hardest structure). Two of these are dropped when killing the "Hovering Inferno", the boss mob of Incendium.
+
+Drops:
+
+* 8-12 Netherite Scrap (100%)
+
+* 10-14 Diamonds (100%)
+
+* One resource from the following: (100%)
+
+   * 1-2 Enchanted Golden Apples (12.5%)
+
+   * 8-16 Golden Apples (12.5%)
+
+   * 2 Netherite Upgrade Smithing Templates (12.5%)
+
+   * 32-64 Experience Bottles (12.5%)
+
+   * 32-64 Golden Carrots (12.5%)
+
+   * 32-64 Gold Ingots (12.5%)
+
+   * 5-7 Gold Blocks (12.5%)
+
+   * 5-7 Iron Blocks (12.5%)
+
+* One rare enchantment: (100%)
+
+   * Luck of The Sea 3 (6.66%)
+
+   * Wind Burst 2-3 (6.66%)
+
+   * Density 4-5 (6.66%)
+
+   * Soul Speed 2-3 (6.66%)
+
+   * Swift Sneak 2-3 (6.66%)
+
+   * Silk Touch (6.66%)
+
+   * Channeling (6.66%)
+
+   * Loyalty 2-3 (6.66%)
+
+   * Respiration 3 (6.66%)
+
+   * Aqua Affinity (6.66%)
+
+   * Lure 3 (6.66%)
+
+   * Impaling 4-5 (6.66%)
+
+   * Depth Strider 3 (6.66%)
+
+   * Feather Falling 3-4 (6.66%)
+
+   * Smite 4-5 (6.66%)
 
