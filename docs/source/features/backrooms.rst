@@ -161,7 +161,9 @@ Evolutions:
 
   * Block drops go straight into your inventory.
 
-  * +2 block reach. (doesn't impact entity reach)
+  * +1.5 Block Reach
+
+  * +0.5 Entity Reach
 
   * Items: Helmet
 
