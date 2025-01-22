@@ -418,11 +418,15 @@ Usually obtained from killing some Incendium nether mobs.
 
 Drops:
 
-* One rare resource from the following: (100%)
+* One diamond/netherite item from the following: (100%)
 
-   * 4-8 Netherite Scrap (50%)
+   * 4-8 Netherite Scrap (25%)
 
-   * 6-8 Diamonds (50%)
+   * 1-2 Netherite Ingots (25%)
+
+   * 6-8 Diamonds (37.5%)
+
+   * 1 Diamond Block (12.5%)
 
 * One resource from the following: (100%)
 
@@ -446,9 +450,17 @@ Usually obtained from looting high-end Incendium structures
 
 Drops:
 
-* 4-8 Netherite Scrap (100%)
+* One Netherite Item: (100%)
 
-* 6-8 Diamonds (100%)
+   * 4-8 Netherite Scrap (50%)
+
+   * 1-2 Netherite Ingots (50%)
+
+* One Diamond Item: (100%)
+
+   * 6-8 Diamonds (66.67%)
+
+   * 1 Diamond Block (33.33%)
 
 * One resource from the following: (100%)
 
@@ -506,9 +518,17 @@ Usually obtained from looting the Forbidden Castle (the hardest structure). Two 
 
 Drops:
 
-* 8-12 Netherite Scrap (100%)
+* One Netherite Item: (100%)
 
-* 10-14 Diamonds (100%)
+   * 8-12 Netherite Scrap (50%)
+
+   * 2-3 Netherite Ingots (50%)
+
+* One Diamond Item: (100%)
+
+   * 10-14 Diamonds (50%)
+
+   * 1-2 Diamond Blocks (50%)
 
 * One resource from the following: (100%)
 
