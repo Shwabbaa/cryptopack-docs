@@ -59,7 +59,7 @@ Mod list
 - `Artifacts <https://modrinth.com/mod/P0Mu4wcQ>`_ 13.0.2 by ochotonida, Florens
 - `Athena <https://www.curseforge.com/projects/841890>`_ 4.0.1 by ThatGravyBoat
 - `Attack Through Grass <https://modrinth.com/mod/OKM2WWl3>`_ 2.0.3 by MianReplicate
-- `Axiom CC <>`_ 4.8.69 by Moulberry
+- Axiom 4.8.69 by Moulberry
 - `AzureLib <https://modrinth.com/mod/7zlUOZvb>`_ 3.0.11 by AzureDoom, Gecko, Eliot, Chappie, DerToaster, Tslat, Bvanseg
 - `BCLib <https://modrinth.com/mod/BgNRHReB>`_ 21.0.13 by Quiqueck, paulevs, Bulldog83
 - `BadOptimizations <https://modrinth.com/mod/g96Z4WVZ>`_ 2.2.1 by Thosea
@@ -96,7 +96,7 @@ Mod list
 - `Crate Delight <https://modrinth.com/mod/9rlXSyLg>`_ 24.11.22-1.21-fabric by Axperty
 - `CreativeCore <https://modrinth.com/mod/OsZiaDHq>`_ 2.13.1 by CreativeMD, AriaFreeze
 - `Cristel Lib <https://modrinth.com/mod/cl223EMc>`_ 1.2.8 by Cristelknight
-- `CryptoCraft <>`_ 4.6.0 by 
+- CryptoCraft
 - `DEUF Refabricated <https://modrinth.com/mod/US6QuKdU>`_ 1.1.0 by ElocinDev
 - `Death Finder <https://modrinth.com/mod/wNxIBREV>`_ 21.1.1 by Fuzs
 - `Debugify <https://modrinth.com/mod/QwxR6Gcd>`_ 1.21.1+1.0 by isXander
@@ -273,7 +273,7 @@ Mod list
 - `TCD Commons API <https://modrinth.com/mod/Eldc1g37>`_ 3.12.7+fabric-1.21 by TheCSDev
 - `TerraBlender <https://modrinth.com/mod/kkmrDlKT>`_ 4.1.0.8 by Adubbz
 - `TerraBlenderFix <https://modrinth.com/mod/t2pgJYye>`_ 0.0.1 by racconman
-- `The Aether <>`_ 1.5.69 by AlphaMode, baguchi, bconlon, Blodhgarm, Burning Cactus, Drullkus, Hugo Payn, Jaryt, Oscar Payn, quek, Raptor, reetam, RENREN, sunsette
+- The Aether (CC) by AlphaMode, baguchi, bconlon, Blodhgarm, Burning Cactus, Drullkus, Hugo Payn, Jaryt, Oscar Payn, quek, Raptor, reetam, RENREN, sunsette
 - `Tidal Towns <https://modrinth.com/mod/EEIwvQVo>`_ 1.3.4 by joshieman
 - `Tips <https://modrinth.com/mod/AMCbgyVw>`_ 21.1.2 by Darkhax
 - `ToadLib <https://modrinth.com/mod/CYQ7VYrM>`_ 1.2.7 by Mr.Toad
