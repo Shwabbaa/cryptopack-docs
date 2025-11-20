@@ -300,13 +300,20 @@ This item allows you to enter the backrooms. You need to build a special portal 
 .. _cat-bazooka:
 Cat Bazooka
 """"""""""""""
-Shoot exploding cats.
+Shoot exploding cats. (Craftable)
 (10 Spirit)
+
+.. _cursed-fishing-rod:
+Cursed Fishing Rod
+""""""""""""""
+Allows you to catch items from all loot tables, including CryptoCraft and custom datapack loot tables.
+
+Found in the Sewer Level (level 2) as chest loot.
 
 .. _time-capsule:
 Time Capsule
 """"""""""""""
-Allows you to retrieve items from past seasons and store them for future seasons. Has 3 slots, works like an ender chest that never resets.
+Allows you to retrieve items from past seasons and store them for future seasons. Has 3 slots, works like an ender chest that never resets. (Craftable)
 (10 Spirit)
 
 .. _conversion-potion:
@@ -317,36 +324,36 @@ Converts mobs to other types of mobs when thrown. Does not work on backrooms mob
 .. _forcefield:
 Forcefield
 """"""""""""""
-Fortnite shield bubble. Players can walk through but any other entity cannot (including projectiles and items). Lasts for 1 minute before breaking.
+Fortnite shield bubble. Players can walk through but any other entity cannot (including projectiles and items). Lasts for 1 minute before breaking. (Craftable)
 
 .. _level-break:
 Level Break
 """"""""""""""
 Removes you from :doc:`backrooms` immediately.
 You cannot use it if you've taken damage recently.
-Backrooms Mobs have a very low chance to drop this item when killed.
+Backrooms Mobs have a very low chance to drop this item when killed. (Craftable)
 
 .. _tpa-ring:
 TPA Ring
 """"""""""""""
 Teleports you to other players with the ring. Consumes upon use when sending or recieving teleports. Cannot be used to teleport in between the backrooms and any other dimension.
-You cannot use it if you've taken damage recently.
+You cannot use it if you've taken damage recently. (Craftable)
 
 .. _back-ring:
 Back Ring
 """"""""""""""
-Teleports you to the previous location before you used a TPA ring. This is not used to go back to your death location.
+Teleports you to the previous location before you used a TPA ring. This is not used to go back to your death location. (Craftable)
 
 .. _portable-bench:
 Portable Bench
 """"""""""""""
-Allows you to access a wide variety of workstations (such as crafting table, anvil etc) by right clicking the item in your inventory or on your hand.
+Allows you to access a wide variety of workstations (such as crafting table, anvil etc) by right clicking the item in your inventory or on your hand. (Craftable)
 
 .. _magic-mirror:
 Magic Mirror
 """"""""""""""
 Teleports you to your spawn point.
-You cannot use it if you've taken damage recently.
+You cannot use it if you've taken damage recently. (Craftable)
 (40 Spirit)
 
 .. _level-crystals:
@@ -406,7 +413,7 @@ Only works when you have no other items in your inventory (intended for item rec
 
 Horse Whistle
 """"""""""""""
-Right click on an existing horse to bind it. Right click again to teleport the horse to where you are currently looking. Costs 15 Spirit to teleport/spawn a horse. Cannot be used after the horse's death. Works on "horse" variants like donkeys, llamas etc
+Right click on an existing horse to bind it. Right click again to teleport the horse to where you are currently looking. Costs 15 Spirit to teleport/spawn a horse. Cannot be used after the horse's death. Works on "horse" variants like donkeys, llamas etc (Craftable)
 
 .. _loot-boxes:
 Loot Boxes
