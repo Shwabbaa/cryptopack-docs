@@ -88,7 +88,7 @@ Evolutions:
 
   * Shooting tipped arrows spawns a lingering effect where the arrows land.
 
-  * Items: Crossbow
+  * Items: Bow, Crossbow
 
 .. evolution-bounty:
 * **Bounty**
