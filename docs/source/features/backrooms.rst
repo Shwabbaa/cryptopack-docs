@@ -66,6 +66,15 @@ You'll need to craft the evolution stones into evolution cores, which require ev
 
 A list of evolutions can be found below with each level.
 
+Enchants
+----------------
+
+Rare enchants can be periodically found in The Backrooms. These enchantments are not exclusive to The Backrooms.
+
+* Ghasted 2 or 3 (rocket jump)
+
+* Wither Coated 2 or 3 (alternative to fire aspect)
+
 Levels
 ----------------
 
@@ -146,6 +155,8 @@ Sewer (2)
    :width: 640
 
 Entities: :ref:`Mite<entity-mite>`, :ref:`Infested Wretch<entity-infested-wretch>`, :ref:`Lurker<entity-lurker>`
+
+The :ref:`Cursed Fishing Rod<cursed-fishing-rod>` can be found at this floor in chest loot.
 
 Evolutions:
 
@@ -285,7 +296,7 @@ Evolutions:
 
   * Increases attack speed by 40%
 
-  * Items: All Swords (except Hammers and Greatswords)
+  * Items: All Swords (except Hammers and Greatswords), Mace
 
 .. evolution-paledon:
 * **Paledon**
@@ -316,14 +327,14 @@ Red (-1)
 
 Entities: :ref:`Hound<entity-hound>`, :ref:`Howler<entity-howler>`, :ref:`Spooky Creeper<entity-spooky-creeper>`, :ref:`Slow Joe<entity-slow-joe>`, :ref:`Goblin<entity-goblin>`
 
-Evolutions:
+Evolutions (found in chest loot):
 
 .. evolution-necromancer:
 * **Necromancer**
 
   * Mobs killed with this weapon spawn bowless skeletons that fight for you.
 
-  * Items: Greatswords and Hammers
+  * Items: All Swords and Hammers, Mace
 
 .. evolution-vampire:
 * **Vampire**
@@ -331,12 +342,12 @@ Evolutions:
   * Heal 4 hp (2 hearts) when you kill a mob
   * Heal 10 hp (5 hearts) when you kill a player
 
-  * Items: All Swords
+  * Items: All Swords, Mace
 
 .. evolution-parry:
 * **Parry**
 
-  * Attacking right after blocking damage from your shield deals up to 2.5x more damage
+  * Entities attacking right after blocking damage from your shield deals up to 2.5x more damage
 
   * Items: Shield
 
@@ -399,7 +410,7 @@ Evolutions:
 .. evolution-poison-edge:
 * **Poison Edge**
 
-  * Attacking mobs gives them poison 2 for 5 seconds. Attacking players gives them poison 1 for 5 seconds.
+  * Attacking entities gives them poison 2 for 5 seconds. Undead mobs get Wither 2 instead.
 
   * Items: All Swords
 
