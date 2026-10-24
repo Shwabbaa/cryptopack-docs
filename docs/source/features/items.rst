@@ -363,6 +363,10 @@ Teleports you up/down a level in the Backrooms respectively.
 You cannot use it if you've taken damage recently.
 Found in backrooms chest loot.
 
+Waystone
+""""""""""""""
+A waystone. Waystones found natrually can not be moved or destroyed, while player crafted waystones can. (Craftable)
+
 Spirit Items
 ------------
 Items to regenerate your :doc:`spirit`
@@ -419,171 +423,65 @@ Right click on an existing horse to bind it. Right click again to teleport the h
 Loot Boxes
 -----------
 
-Common Loot Box
+.. _evolution-box:
+Evolution Box
 """"""""""""""
-Usually obtained from killing some Incendium nether mobs.
+The Evolution Box is a lootbox that gives you a random evolution. There are 3 ways of obtaining them:
 
-Drops:
+#. Unlocking a vault from the vanilla trial chamber or any modded structure:
 
-* One diamond/netherite item from the following: (100%)
+   * Regular Vault:
 
-   * 4-8 Netherite Scrap (25%)
+      * 30% for vanilla trial chambers
 
-   * 1-2 Netherite Ingots (25%)
+      * 20% for Shrines
 
-   * 6-8 Diamonds (37.5%)
+      * 25% for any other modded structure
 
-   * 1 Diamond Block (12.5%)
+   * Ominous Vault:
 
-* One resource from the following: (100%)
+      * 65% for vanilla trial chambers
 
-   * 3-6 Golden Apples (14.28%)
+      * 50% for any other modded structure (incl. Shrines)
 
-   * 1 Netherite Upgrade Smithing Template (14.28%)
+#. Opening a chest or barrel in some structures:
 
-   * 8-16 Experience Bottles (14.28%)
+   * Vanilla Minecraft
 
-   * 8-16 Golden Carrots (14.28%)
+      * 100%: Buried Treasure
 
-   * 12-24 Gold Ingots (14.28%)
+      * 25%: Ancient City
 
-   * 2-4 Gold Blocks (14.28%) 
+      * 15%: Trial Chamber
 
-   * 2-4 Iron Blocks (14.28%)
+      * 10%: Woodland Mansion, End City
 
-Rare Loot Box
-""""""""""""""
-Usually obtained from looting high-end Incendium structures
+   * `Dungeons and Taverns <https://modrinth.com/datapack/dungeons-and-taverns/gallery>`__
 
-Drops:
+      * 20%: Hamlet (Treasure), Nether Port (Treasure)
 
-* One Netherite Item: (100%)
+      * 15%: Illager Barracks (Tower)
 
-   * 4-8 Netherite Scrap (50%)
+      * 10%: Nether Port (Regular), Piglin Camp, Stray Fort (Regular), Hamlet (Regular), Illager Mansion, Illager Camp, Illager Barracks, Piglin Outstation, Nether Tower, End Castle, End Lighthouse
 
-   * 1-2 Netherite Ingots (50%)
+      * 7.5%: Lone Citadel
 
-* One Diamond Item: (100%)
+      * 5%: Stray Fort (Food), Nether Bridge
 
-   * 6-8 Diamonds (66.67%)
+      * 2.5%: Every Other Structure
 
-   * 1 Diamond Block (33.33%)
+  * `Incendium (Legacy) <https://stardustlabs.miraheze.org/wiki/Incendium#Structures>`__
 
-* One resource from the following: (100%)
+      * 20%: Sanctum (Rare)
 
-   * 1 Enchanted Golden Apple (12.5%)
+      * 10%: Sanctum (Lower), Forbidden Castle (Non-Food), Every Other Structure
 
-   * 5-10 Golden Apples (12.5%)
+      * 5%: Sanctum (Junk)
 
-   * 1-2 Netherite Upgrade Smithing Templates (12.5%)
+      * 2.5%: Forbidden Castle (Food)
 
-   * 16-32 Experience Bottles (12.5%)
+#. Rewards for some CryptoCraft Server Events
 
-   * 16-32 Golden Carrots (12.5%)
+Each 
 
-   * 16-32 Gold Ingots (12.5%)
-
-   * 3-5 Gold Blocks (12.5%)
-
-   * 3-5 Iron Blocks (12.5%)
-
-* One rare enchantment: (50%)
-
-   * Luck of The Sea 2 (3.33%)
-
-   * Wind Burst 2 (3.33%)
-
-   * Density 4 (3.33%)
-
-   * Soul Speed 2 (3.33%)
-
-   * Swift Sneak 2 (3.33%)
-
-   * Silk Touch (3.33%)
-
-   * Channeling (3.33%)
-
-   * Loyalty 2 (3.33%)
-
-   * Respiration 2 (3.33%)
-
-   * Aqua Affinity (3.33%)
-
-   * Lure 2 (3.33%)
-
-   * Impaling 4 (3.33%)
-
-   * Depth Strider 2 (3.33%)
-
-   * Feather Falling 3 (3.33%)
-
-   * Smite 4 (3.33%)
-
-Legendary Loot Box
-""""""""""""""
-Usually obtained from looting the Forbidden Castle (the hardest structure). Two of these are dropped when killing the "Hovering Inferno", the boss mob of Incendium.
-
-Drops:
-
-* One Netherite Item: (100%)
-
-   * 8-12 Netherite Scrap (50%)
-
-   * 2-3 Netherite Ingots (50%)
-
-* One Diamond Item: (100%)
-
-   * 10-14 Diamonds (50%)
-
-   * 1-2 Diamond Blocks (50%)
-
-* One resource from the following: (100%)
-
-   * 1-2 Enchanted Golden Apples (12.5%)
-
-   * 8-16 Golden Apples (12.5%)
-
-   * 2 Netherite Upgrade Smithing Templates (12.5%)
-
-   * 32-64 Experience Bottles (12.5%)
-
-   * 32-64 Golden Carrots (12.5%)
-
-   * 32-64 Gold Ingots (12.5%)
-
-   * 5-7 Gold Blocks (12.5%)
-
-   * 5-7 Iron Blocks (12.5%)
-
-* One rare enchantment: (100%)
-
-   * Luck of The Sea 3 (6.66%)
-
-   * Wind Burst 2-3 (6.66%)
-
-   * Density 4-5 (6.66%)
-
-   * Soul Speed 2-3 (6.66%)
-
-   * Swift Sneak 2-3 (6.66%)
-
-   * Silk Touch (6.66%)
-
-   * Channeling (6.66%)
-
-   * Loyalty 2-3 (6.66%)
-
-   * Respiration 3 (6.66%)
-
-   * Aqua Affinity (6.66%)
-
-   * Lure 3 (6.66%)
-
-   * Impaling 4-5 (6.66%)
-
-   * Depth Strider 3 (6.66%)
-
-   * Feather Falling 3-4 (6.66%)
-
-   * Smite 4-5 (6.66%)
 
