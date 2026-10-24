@@ -10,6 +10,7 @@ There are 2 ways to get evolutions:
 
 #. Backrooms
 
+.. _evolution-box:
 Evolution Boxes
 ----------------
 Evolution Boxes are lootboxes that give a random evolution core.
