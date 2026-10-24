@@ -6,6 +6,7 @@ This page lists all the custom features CryptoCraft has to offer
 .. toctree::
    :maxdepth: 2
 
+   evolutions
    items
    spirit
    backrooms
@@ -24,9 +25,10 @@ Overview
  * You keep your inventory if you were killed by a player
  * Items dropped from player death despawn in 24 hours instead of 5 minutes
  * You drop 50% of your XP when you die instead of 7 levels
+ * If you die in the void, barrels will spawn at Y=0 containing your items
 * Some new items are added, you can **use the vanilla recipe book and search 'CryptoCraft'**:
  * 4 new craftable weapon types were added with different stats and abilities 
- * You can craft :doc:`consumable books<books>` which can do things when used such as blowing random shit up or teleporting you to your spawn 
+ * You can craft :doc:`consumable books<books>` which can do a wide range of things
 * :doc:`Books<books>` (and other items in the future) use up a new resource called :doc:`Spirit<spirit>`, a mana system.
  * Your spirit does not regenerate automatically, instead you must do things such as being near players, pets, campfires or the torchdlower
  * You can craft consumable items that will regenerate your spirit such as the edp445 cupcake
