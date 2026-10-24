@@ -423,65 +423,8 @@ Right click on an existing horse to bind it. Right click again to teleport the h
 Loot Boxes
 -----------
 
-.. _evolution-box:
 Evolution Box
 """"""""""""""
-The Evolution Box is a lootbox that gives you a random evolution. There are 3 ways of obtaining them:
-
-#. Unlocking a vault from the vanilla trial chamber or any modded structure:
-
-   * Regular Vault:
-
-      * 30% for vanilla trial chambers
-
-      * 20% for Shrines
-
-      * 25% for any other modded structure
-
-   * Ominous Vault:
-
-      * 65% for vanilla trial chambers
-
-      * 50% for any other modded structure (incl. Shrines)
-
-#. Opening a chest or barrel in some structures:
-
-   * Vanilla Minecraft
-
-      * 100%: Buried Treasure
-
-      * 25%: Ancient City
-
-      * 15%: Trial Chamber
-
-      * 10%: Woodland Mansion, End City
-
-   * `Dungeons and Taverns <https://modrinth.com/datapack/dungeons-and-taverns/gallery>`__
-
-      * 20%: Hamlet (Treasure), Nether Port (Treasure)
-
-      * 15%: Illager Barracks (Tower)
-
-      * 10%: Nether Port (Regular), Piglin Camp, Stray Fort (Regular), Hamlet (Regular), Illager Mansion, Illager Camp, Illager Barracks, Piglin Outstation, Nether Tower, End Castle, End Lighthouse
-
-      * 7.5%: Lone Citadel
-
-      * 5%: Stray Fort (Food), Nether Bridge
-
-      * 2.5%: Every Other Structure
-
-  * `Incendium (Legacy) <https://stardustlabs.miraheze.org/wiki/Incendium#Structures>`__
-
-      * 20%: Sanctum (Rare)
-
-      * 10%: Sanctum (Lower), Forbidden Castle (Non-Food), Every Other Structure
-
-      * 5%: Sanctum (Junk)
-
-      * 2.5%: Forbidden Castle (Food)
-
-#. Rewards for some CryptoCraft Server Events
-
-Each 
+The Evolution Box is a lootbox that gives you a random evolution. See :doc:`evolution-box` for more details.
 
 
