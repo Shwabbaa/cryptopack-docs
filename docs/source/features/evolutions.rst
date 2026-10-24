@@ -69,7 +69,7 @@ They can be obtained through the following methods:
 
       * 2.5%: Forbidden Castle (Food)
 
-   * Any other chest or barrel has a 1 in 2^12 chance (~0.0244%) to drop a loot box comemorate Blueygod losing 12 Valorant games in a row and deranking from Immortal 1 to Ascendant 2.
+   * Any other chest or barrel has a 1 in 2^12 chance (~0.0244%) to drop a loot box to commemorate Blueygod losing 12 Valorant games in a row and deranking from Immortal 1 to Ascendant 2.
 
 The Evolutions
 -------------------
