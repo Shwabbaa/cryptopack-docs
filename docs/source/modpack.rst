@@ -1,20 +1,20 @@
-Modpack
+Joining CryptoCraft
 ===================================
 
-This will cover how to install the modpack.
+To join CryptoCraft, you will need to install `Simple Voice Chat <https://modrinth.com/plugin/simple-voice-chat>`_, or the modpack.
 
-Benefits
+This will cover how to install the modpack using Curseforge Launcher. If you are already using another client/launcher (e.g. Lunar Client or Prism Launcher) then we reccomend installing the modpack there instead.
+
+Modpack Benefits
 ----------
 * Improved performance
 * Shader support using Iris
-* Supports CIT custom armour models (if readded in the future)
 * Quality of life enhancements:
 
    * Dynamic torch lighting
    * Controller support
    * 3D skin layers
    * Disables chat reporting when possible
-   * WorldEdit
    * Open your singleplayer world for anyone to join
 
 Installation
@@ -26,16 +26,20 @@ Installation
 
 #. Download `CurseForge Launcher <https://www.curseforge.com/download/app>`_ and Select "Download standalone"
 #. Download `the modpack <https://mega.nz/file/bSIHABzQ#AAjwzgYKjTEXrHv9-hzt1EsQJMV0o_HBxnX4ugqZrec>`_
-#. Install the curseforge launcher
+#. Install the Curseforge Launcher
 #. Click "Minecraft" when choosing a game
 #. Choose where to setup your game instances, doesn't matter where just pick somewhere
 #. Click "Create Custom Profile"
 #. Click the underlined "import" option at the top of the menu and select the modpack .zip you downloaded on step 2
 #. Wait for stuff to download then click into the pack, then click Play
 #. Click play on the vanilla launcher that should pop up
-#. Once you're in game, type /resourcepack and click "Install" to install the resourcepack if it is not installed already.
 
-That's it!
+Lunar Client Installation
+----------
+#. Download `the modpack <https://mega.nz/file/bSIHABzQ#AAjwzgYKjTEXrHv9-hzt1EsQJMV0o_HBxnX4ugqZrec>`_
+#. Click on the "Create Profile" plus button on the bottom left of the launcher
+#. Click on "Import from Filesystem"
+#. Select the modpack zip
 
 .. note ::
    The modpack contains resourcepacks that change the splash screen which are on by default. You can remove them by going to resourcepacks. 
