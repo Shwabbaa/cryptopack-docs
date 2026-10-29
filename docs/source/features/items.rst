@@ -419,12 +419,15 @@ Horse Whistle
 """"""""""""""
 Right click on an existing horse to bind it. Right click again to teleport the horse to where you are currently looking. Costs 15 Spirit to teleport/spawn a horse. Cannot be used after the horse's death. Works on "horse" variants like donkeys, llamas etc (Craftable)
 
+Extraction Tablet
+""""""""""""""
+The Extraction Tablet is a rare drop from an :doc:`evolution-box` that allows you to destroy an evolved item, returning its' evolution core.
+
 .. _loot-boxes:
 Loot Boxes
 -----------
 
 Evolution Box
 """"""""""""""
-The Evolution Box is a lootbox that gives you a random evolution. See :doc:`evolution-box` for more details.
-
+The Evolution Box is a lootbox that gives you a random evolution. See :doc:`evolution-box` for more details. (Not Craftable)
 
