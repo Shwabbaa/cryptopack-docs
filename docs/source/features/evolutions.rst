@@ -39,7 +39,7 @@ They can be obtained through the following methods:
 
       * 100%: Buried Treasure
 
-      * 25%: Ancient City
+      * 20%: Ancient City
 
       * 15%: Trial Chamber
 
