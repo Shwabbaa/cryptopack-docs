@@ -71,7 +71,7 @@ They can be obtained through the following methods:
 
       * Many Incendium structures also contain packs of 1-3 Evolution Boxes on item frames or armour stands. In particular, you should check the roof of the `Forbidden Castle <https://stardustlabs.miraheze.org/wiki/Forbidden_castle>`.
 
-      * The `Hovering Inferno <https://stardustlabs.miraheze.org/wiki/Hovering_Inferno>` boss from this datapack also drops 4 Evolution Boxes when killed.
+      * The `Hovering Inferno <https://stardustlabs.miraheze.org/wiki/Hovering_Inferno>` boss from this datapack also drops 6 Evolution Boxes when killed.
 
    * Any other chest or barrel has a 1 in 2^12 chance (~0.0244%) to drop a loot box to commemorate Blueygod losing 12 Valorant games in a row and deranking from Immortal 1 to Ascendant 2.
 
