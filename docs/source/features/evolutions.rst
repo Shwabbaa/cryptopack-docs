@@ -401,11 +401,11 @@ Items: All tools and weapons
 
 Stab
 ^^^^^^^^^^^^^^^^^^^^
-Deal 40% more damage to unarmored targets, excluding bosses.
+Throw and Riptide attacks deal 2x damage.
 
 Found in floor: Hallway (0)
 
-Items: Vanilla Swords, Longswords, Mace, Spears, Trident
+Items: Tridents
 
 Smelting Touch
 ^^^^^^^^^^^^^^^^^^^^
@@ -487,5 +487,34 @@ Grants infinite Conduit Power and Dolphin's Grace, but reduces Depth Strider's e
 
 Found in floor: Garden (1)
 
-Items: Helmets
+Unbreakable
+^^^^^^^^^^^^^^^^^^^^
+Makes the item stop losing durabillity. Does not repair the item.
 
+Found in floor: Sewer (2)
+
+Items: Anything with durabillity
+
+Unbreakable
+^^^^^^^^^^^^^^^^^^^^
+Makes the item stop losing durabillity. Does not repair the item.
+
+Found in floor: Sewer (2)
+
+Items: Anything with durabillity
+
+Rethrow
+^^^^^^^^^^^^^^^^^^^^
+Throwing the trident does not make its' item leave your inventory, but instead applies a 0.3 second throw cooldown that is reduced by 0.1 seconds for each level of Loyalty on the trident (At Loyalty 3, there is no cooldown).
+
+Found in floor: Garden (1)
+
+Items: Anything with durabillity
+
+Racer
+^^^^^^^^^^^^^^^^^^^^
+Either boosts mount walking / swimming speed by 65% for Horses, Camels, Donkeys, Mules, Pigs, Striders, Nautilus, or boosts Happy Ghast flying speed by 125%.
+
+Found in floor: Hallway (0)
+
+Items: Saddle, Harnesses
