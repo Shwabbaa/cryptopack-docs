@@ -69,7 +69,7 @@ They can be obtained through the following methods:
 
       * 2.5%: Forbidden Castle (Food)
 
-      * Many Incendium structures also contain packs of 1-3 Evolution Boxes on item frames or armour stands. In particular, you should check the roof of the `Forbidden Castle <https://stardustlabs.miraheze.org/wiki/Forbidden_castle>`.
+      * Many Incendium structures also contain Evolution Boxes on item frames or armour stands, to replace that datapack's custom items. In particular, you should check the roof of the `Forbidden Castle <https://stardustlabs.miraheze.org/wiki/Forbidden_castle>`.
 
       * The `Hovering Inferno <https://stardustlabs.miraheze.org/wiki/Hovering_Inferno>` boss from this datapack also drops 4 Evolution Boxes when killed.
 
