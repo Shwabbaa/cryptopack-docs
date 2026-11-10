@@ -423,6 +423,11 @@ Extraction Tablet
 """"""""""""""
 The Extraction Tablet is a rare drop from an :doc:`evolution-box` that allows you to destroy an evolved item, returning its' evolution core.
 
+Crypto Shop Access Token
+""""""""""""""
+The Crypto Shop Access Token is a very rare drop from an :doc:`evolution-box` that gives you Hero of The Village 255 for 4 hours and 40 minutes. This effect is not removed when you die or drink milk.
+
+
 .. _loot-boxes:
 Loot Boxes
 -----------
