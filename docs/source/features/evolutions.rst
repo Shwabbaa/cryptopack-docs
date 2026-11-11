@@ -29,7 +29,7 @@ They can be obtained through the following methods:
 
       * 50% for Shrines
 
-      * 65% for any other structure (incl. vanilla trial chambers)
+      * 60% for any other structure (incl. vanilla trial chambers)
 
 #. Opening a chest or barrel in some structures:
 
