@@ -21,17 +21,15 @@ They can be obtained through the following methods:
 
    * Regular Vault:
 
-      * 30% for vanilla trial chambers
+      * 15% for Shrines
 
-      * 20% for Shrines
-
-      * 25% for any other modded structure
+      * 20% for any other structure (incl. vanilla trial chambers)
 
    * Ominous Vault:
 
-      * 65% for vanilla trial chambers
+      * 50% for Shrines
 
-      * 50% for any other modded structure (incl. Shrines)
+      * 65% for any other structure (incl. vanilla trial chambers)
 
 #. Opening a chest or barrel in some structures:
 
@@ -41,9 +39,7 @@ They can be obtained through the following methods:
 
       * 20%: Ancient City, Bastion
 
-      * 15%: Trial Chamber
-
-      * 10%: Woodland Mansion, End City
+      * 10%: Woodland Mansion, End City, Trial Chamber
 
    * `Dungeons and Taverns <https://modrinth.com/datapack/dungeons-and-taverns/gallery>`__
 
@@ -53,15 +49,11 @@ They can be obtained through the following methods:
 
       * 10%: Nether Port (Regular), Piglin Camp, Stray Fort (Regular), Hamlet (Regular), Illager Mansion, Illager Camp, Illager Barracks, Piglin Outstation, Nether Tower, End Castle, End Lighthouse
 
-      * 7.5%: Lone Citadel
-
-      * 5%: Stray Fort (Food), Nether Bridge
-
-      * 2.5%: Every Other Dungeons and Taverns Structure
+      * 5%: Every Other Dungeons and Taverns Structure, Lone Citadel, Stray Fort (Food)
 
    * `Incendium (Legacy) <https://stardustlabs.miraheze.org/wiki/Incendium#Structures>`__
 
-      * 20%: Sanctum (Rare)
+      * 15%: Sanctum (Rare)
 
       * 10%: Sanctum (Lower), Forbidden Castle (Non-Food), Every Other Incendium Structure
 
