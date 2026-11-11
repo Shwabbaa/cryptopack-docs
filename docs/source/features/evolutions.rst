@@ -49,7 +49,9 @@ They can be obtained through the following methods:
 
       * 10%: Nether Port (Regular), Piglin Camp, Stray Fort (Regular), Hamlet (Regular), Illager Mansion, Illager Camp, Illager Barracks, Piglin Outstation, Nether Tower, End Castle, End Lighthouse
 
-      * 5%: Every Other Dungeons and Taverns Structure, Lone Citadel, Stray Fort (Food)
+      * 5%: Lone Citadel, Stray Fort (Food)
+
+      * 3.5%: Every Other Dungeons and Taverns Structure
 
    * `Incendium (Legacy) <https://stardustlabs.miraheze.org/wiki/Incendium#Structures>`__
 
@@ -58,8 +60,6 @@ They can be obtained through the following methods:
       * 10%: Sanctum (Lower), Forbidden Castle (Non-Food), Every Other Incendium Structure
 
       * 5%: Sanctum (Junk)
-
-      * 2.5%: Forbidden Castle (Food)
 
       * Many Incendium structures also contain Evolution Boxes on item frames or armour stands, to replace that datapack's custom items. In particular, you should check the roof of the `Forbidden Castle <https://stardustlabs.miraheze.org/wiki/Forbidden_castle>`.
 
