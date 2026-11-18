@@ -47,7 +47,7 @@ They can be obtained through the following methods:
 
       * 15%: Illager Barracks (Tower)
 
-      * 10%: Nether Port (Regular), Piglin Camp, Stray Fort (Regular), Hamlet (Regular), Illager Mansion, Illager Camp, Illager Barracks, Piglin Outstation, Nether Tower, End Castle, End Lighthouse
+      * 10%: Nether Port (Regular), Stray Fort (Regular), Hamlet (Regular), Illager Mansion, Illager Camp, Illager Barracks, Piglin Outstation, Nether Tower, End Castle, End Lighthouse
 
       * 5%: Lone Citadel, Stray Fort (Food)
 
