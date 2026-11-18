@@ -55,11 +55,9 @@ They can be obtained through the following methods:
 
    * `Incendium (Legacy) <https://stardustlabs.miraheze.org/wiki/Incendium#Structures>`__
 
-      * 15%: Sanctum (Rare)
+      * 15%: Forbidden Castle (Non-Food)
 
-      * 10%: Sanctum (Lower), Forbidden Castle (Non-Food), Every Other Incendium Structure
-
-      * 5%: Sanctum (Junk)
+      * 5%: Every Other Incendium Structure, Forbidden Castle (Food)
 
       * Many Incendium structures also contain Evolution Boxes on item frames or armour stands, to replace that datapack's custom items. In particular, you should check the roof of the `Forbidden Castle <https://stardustlabs.miraheze.org/wiki/Forbidden_castle>`.
 
